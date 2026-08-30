@@ -22,6 +22,28 @@
   .accordion-button:focus { box-shadow: 0 0 0 2px var(--yellow); }
   .accordion-button::after { filter: none; }
   .accordion-date { font-family: var(--font-mono); font-size: 0.78rem; opacity: 0.85; display:block; margin-top:2px; }
+  
+  .tei-div.tei-estratto {
+    background: #f5f3ee;
+    border-left: 3px solid var(--yellow);
+    padding: 1rem 1.2rem;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+  }
+  .tei-div.tei-lettera {
+    border-top: 2px solid var(--line);
+    padding-top: 1.2rem;
+  }
+  .tei-div.tei-lettera::before {
+    content: "Testo integrale";
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #5A5040;
+    margin-bottom: 0.8rem;
+  }
 </style>
 </head>
 <body>

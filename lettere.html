@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lettere — Van Gogh: 8 autoritratti e lettere (1886-1889)</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  .accordion-item { border: 1px solid var(--line); margin-bottom: 0.75rem; }
+  .accordion-button {
+    font-family: var(--font-display);
+    background: #fff;
+    color: var(--blue-deep);
+  }
+  .accordion-button:not(.collapsed) {
+    background: var(--blue-deep);
+    color: var(--cream);
+    box-shadow: none;
+  }
+  .accordion-button:focus { box-shadow: 0 0 0 2px var(--yellow); }
+  .accordion-button::after { filter: none; }
+  .accordion-date { font-family: var(--font-mono); font-size: 0.78rem; opacity: 0.85; display:block; margin-top:2px; }
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dh">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">Van Gogh: 8 autoritratti e lettere (1886-1889)</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Catalogo</a>
+          <ul class="dropdown-menu dropdown-menu-dark">
+            <li><a class="dropdown-item" href="catalogo.html">Immagini</a></li>
+            <li><a class="dropdown-item" href="mappa.html">Mappa</a></li>
+            <li><a class="dropdown-item" href="timeline.html">Cronologia</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link active" href="lettere.html">Lettere</a></li>
+        <li class="nav-item"><a class="nav-link" href="dati.html">Dati</a></li>
+        <li class="nav-item"><a class="nav-link" href="progetto.html">Il progetto</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" style="padding: 4rem 0 3rem; background-image: linear-gradient(rgba(16,35,59,0.5), rgba(16,35,59,0.68)), url('assets/img/yellow-house.jpg'); background-size: cover; background-position: center;">
+  <div class="container">
+    <span class="stamp">04 · Lettere</span>
+    <h1 style="font-size: clamp(1.8rem, 4.5vw, 3rem);">Le corrispondenze a Theo e Willemien</h1>
+    <p class="lead-text">
+      7 lettere selezionate fra le numerose scritte nel tempo al fratello e alla sorella, legate agli 8 autoritratti in catalogo, ordinate cronologicamente e filtrabili per destinatario. Clicca per aprire il
+      testo integrale.
+    </p>
+  </div>
+</header>
+<p class="caption" style="text-align:right; margin-top:0.5rem; opacity:0.7;">
+  Sfondo: Vincent van Gogh, <em>The Yellow House</em> (1888), Van Gogh Museum, Amsterdam.
+</p>
+
+<section class="container py-5">
+
+  <div class="d-flex flex-wrap align-items-center gap-3 mb-4">
+    <button class="btn btn-dark filtro-dest-reset active" id="filtro-dest-reset" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">Tutti</button>
+    <div class="d-flex align-items-center gap-2">
+      <span class="eyebrow mb-0" style="white-space:nowrap;">Destinatario</span>
+      <div class="btn-group" role="group" aria-label="Filtra per destinatario">
+        <button class="btn btn-outline-dark filtro-dest-btn" data-dest="theo" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">A Theo</button>
+        <button class="btn btn-outline-dark filtro-dest-btn" data-dest="willemien" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">A Willemien</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion" id="accordionLettere">
+
+    <div class="accordion-item lettera-item" id="lettera-567" data-dest="theo">
+      <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-567" aria-expanded="true">
+          <span>Il biglietto d'arrivo a Parigi<span class="accordion-date">Parigi, 1 marzo 1886 circa — lettera 567, a Theo</span></span>
+        </button>
+      </h2>
+      <div id="collapse-567" class="accordion-collapse collapse show" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Theo van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>1 marzo 1886</td></tr>
+    <tr><th scope="row">Luogo</th><td>Parigi</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 567</td></tr>
+  </tbody>
+</table>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-dark-felt-hat-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+          <p class="mt-3"><a href="item/self-portrait-dark-felt-hat.html">→ vai a Self-Portrait with Dark Felt Hat</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item lettera-item" id="lettera-574" data-dest="willemien">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-574">
+          <span>"Vedo più colori di prima"<span class="accordion-date">Parigi, ottobre 1887 — lettera 574, a Willemien</span></span>
+        </button>
+      </h2>
+      <div id="collapse-574" class="accordion-collapse collapse" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Willemien van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>ottobre 1887</td></tr>
+    <tr><th scope="row">Luogo</th><td>Parigi</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 574</td></tr>
+  </tbody>
+</table>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-grey-felt-hat-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+          <p class="mt-3"><a href="item/self-portrait-grey-felt-hat.html">→ vai a Self-Portrait with Grey Felt Hat</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item lettera-item" id="lettera-626" data-dest="willemien">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-626">
+          <span>La descrizione del "Self-Portrait as a Painter"<span class="accordion-date">Arles, 16-20 giugno 1888 — lettera 626, a Willemien</span></span>
+        </button>
+      </h2>
+      <div id="collapse-626" class="accordion-collapse collapse" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Willemien van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>16-20 giugno 1888</td></tr>
+    <tr><th scope="row">Luogo</th><td>Arles</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 626</td></tr>
+  </tbody>
+</table>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-as-painter-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+          <p class="mt-3"><a href="item/self-portrait-as-painter.html">→ vai a Self-Portrait as a Painter</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item lettera-item" id="lettera-697" data-dest="theo">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-697">
+          <span>Sullo scambio di autoritratti con Gauguin<span class="accordion-date">Arles, 5 ottobre 1888 — lettera 697, a Theo</span></span>
+        </button>
+      </h2>
+      <div id="collapse-697" class="accordion-collapse collapse" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Theo van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>4-5 ottobre 1888</td></tr>
+    <tr><th scope="row">Luogo</th><td>Arles</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 697</td></tr>
+  </tbody>
+</table>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-dedicated-gauguin-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+          <p class="mt-3"><a href="item/self-portrait-dedicated-gauguin.html">→ vai a Self-Portrait Dedicated to Paul Gauguin</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item lettera-item" id="lettera-736" data-dest="theo">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-736">
+          <span>La ripresa del lavoro dopo il ricovero<span class="accordion-date">Arles, 17 gennaio 1889 — lettera 736, a Theo</span></span>
+        </button>
+      </h2>
+      <div id="collapse-736" class="accordion-collapse collapse" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Theo van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>17 gennaio 1889</td></tr>
+    <tr><th scope="row">Luogo</th><td>Arles</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 736</td></tr>
+  </tbody>
+</table>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-bandaged-ear-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+          <p class="mt-3"><a href="item/self-portrait-bandaged-ear.html">→ vai a Self-Portrait with Bandaged Ear</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item lettera-item" id="lettera-800" data-dest="theo">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-800">
+          <span>I due autoritratti dello stesso periodo<span class="accordion-date">Saint-Rémy, 5-6 settembre 1889 — lettera 800, a Theo</span></span>
+        </button>
+      </h2>
+      <div id="collapse-800" class="accordion-collapse collapse" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Theo van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>5-6 settembre 1889</td></tr>
+    <tr><th scope="row">Luogo</th><td>Saint-Rémy-de-Provence</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 800</td></tr>
+  </tbody>
+</table>
+          <p class="caption mb-3">
+            In questa lettera Van Gogh descrive due autoritratti dipinti nello stesso periodo — il testo integrale qui sotto li tratta entrambi.
+          </p>
+          <div class="row g-4 mb-4">
+            <div class="col-md-6">
+              <div style="border:1px solid var(--line); padding:1rem; height:100%;">
+                <p class="eyebrow mb-1">Il secondo dei due</p>
+                <h3 class="card-title" style="font-size:1rem;">Self-Portrait (Musée d'Orsay)</h3>
+                <p class="small">Il confronto con gli autoritratti parigini: "più sano di allora, e persino molto di più".</p>
+                <a href="item/self-portrait-orsay.html" class="small">→ vai all'autoritratto</a>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div style="border:1px solid var(--line); padding:1rem; height:100%;">
+                <p class="eyebrow mb-1">Il primo dei due</p>
+                <h3 class="card-title" style="font-size:1rem;">Self-Portrait with Palette</h3>
+                <p class="small">"Magro, pallido come un diavolo": iniziato il primo giorno in cui si è rialzato.</p>
+                <a href="item/self-portrait-palette.html" class="small">→ vai all'autoritratto</a>
+              </div>
+            </div>
+          </div>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-orsay-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item lettera-item" id="lettera-805" data-dest="theo">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-805">
+          <span>"Un tentativo di quando ero malato"<span class="accordion-date">Saint-Rémy, 20 settembre 1889 — lettera 805, a Theo</span></span>
+        </button>
+      </h2>
+      <div id="collapse-805" class="accordion-collapse collapse" data-bs-parent="#accordionLettere">
+        <div class="accordion-body">
+          <table class="table table-sm mb-3" style="font-family:var(--font-mono); font-size:0.85rem;">
+  <tbody>
+    <tr><th scope="row" style="width:30%;">Autore</th><td>Vincent van Gogh</td></tr>
+    <tr><th scope="row">Destinatario</th><td>Theo van Gogh</td></tr>
+    <tr><th scope="row">Data</th><td>20 settembre 1889</td></tr>
+    <tr><th scope="row">Luogo</th><td>Saint-Rémy-de-Provence</td></tr>
+    <tr><th scope="row">Fonte</th><td>Van Gogh Letters Project, lettera 805</td></tr>
+  </tbody>
+</table>
+          <div class="tei-viewer" data-tei-src="data/self-portrait-oslo-tei.xml">
+            <p class="meta">Caricamento del testo…</p>
+          </div>
+          <p class="mt-3"><a href="item/self-portrait-oslo.html">→ vai a Self-portrait (Oslo)</a></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+<footer>
+  <div class="container">
+    <p class="mb-0">Van Gogh: 8 autoritratti e lettere (1886-1889)</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/tei-render.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const bottoneReset = document.getElementById('filtro-dest-reset');
+    const bottoniDest = document.querySelectorAll('.filtro-dest-btn');
+    const lettere = document.querySelectorAll('.lettera-item');
+
+    let filtroAttivo = 'tutti';
+
+    function applicaFiltro() {
+      lettere.forEach(function (item) {
+        item.style.display = (filtroAttivo === 'tutti' || item.dataset.dest === filtroAttivo) ? '' : 'none';
+      });
+    }
+
+    bottoneReset.addEventListener('click', function () {
+      filtroAttivo = 'tutti';
+      bottoniDest.forEach(b => b.classList.remove('active'));
+      bottoneReset.classList.add('active');
+      applicaFiltro();
+    });
+
+    bottoniDest.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        const giaAttivo = btn.classList.contains('active');
+        bottoniDest.forEach(b => b.classList.remove('active'));
+
+        if (giaAttivo) {
+          filtroAttivo = 'tutti';
+          bottoneReset.classList.add('active');
+        } else {
+          btn.classList.add('active');
+          bottoneReset.classList.remove('active');
+          filtroAttivo = btn.dataset.dest;
+        }
+        applicaFiltro();
+      });
+    });
+  });
+</script>
+</body>
+</html>

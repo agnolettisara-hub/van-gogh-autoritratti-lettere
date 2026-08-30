@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Catalogo — Van Gogh: 8 autoritratti e lettere (1886-1889)</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dh">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">Van Gogh: 8 autoritratti e lettere (1886-1889)</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Catalogo</a>
+  <ul class="dropdown-menu dropdown-menu-dark">
+    <li><a class="dropdown-item" href="catalogo.html">Immagini</a></li>
+    <li><a class="dropdown-item" href="mappa.html">Mappa</a></li>
+    <li><a class="dropdown-item" href="timeline.html">Cronologia</a></li>
+  </ul>
+</li>
+        <li class="nav-item"><a class="nav-link" href="lettere.html">Lettere</a></li>
+        <li class="nav-item"><a class="nav-link" href="dati.html">Dati</a></li>
+        <li class="nav-item"><a class="nav-link" href="progetto.html">Il progetto</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" style="padding: 4rem 0 3rem; background-image: linear-gradient(rgba(16,35,59,0.5), rgba(16,35,59,0.68)), url('assets/img/self-portrait-orsay.jpg'); background-size: 90% auto; background-position: center 35%;">
+  <div class="container">
+    <span class="stamp">01 · Immagini</span>
+    <h1 style="font-size: clamp(1.8rem, 4.5vw, 3rem);">L'evoluzione attraverso lo sguardo</h1>
+    <p class="lead-text">
+      Otto autoritratti per osservare un volto ridipinto più volte nell'arco di tre anni, sottoposto ai cambiamenti tecnici e influenzato dai turbamenti interiori dell'artista.
+    </p>
+  </div>
+</header>
+<p class="caption" style="text-align:right; margin-top:0.5rem; opacity:0.7;">
+  Sfondo: Vincent van Gogh, <em>Self-Portrait</em> (1889), Musée d'Orsay, Parigi.
+</p>
+<section class="container mt-4">
+  <div class="d-flex flex-wrap align-items-center gap-3">
+
+    <button class="btn btn-dark filtro-reset-btn active" id="filtro-reset" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">Tutti</button>
+
+    <div class="d-flex align-items-center gap-2">
+      <span class="eyebrow mb-0" style="white-space:nowrap;">Luogo</span>
+      <div class="btn-group" role="group" aria-label="Filtra per luogo" id="filtri">
+        <button class="btn btn-outline-dark filtro-btn" data-filtro="parigi" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">Parigi</button>
+        <button class="btn btn-outline-dark filtro-btn" data-filtro="arles" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">Arles</button>
+        <button class="btn btn-outline-dark filtro-btn" data-filtro="saintremy" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">Saint-Rémy</button>
+      </div>
+    </div>
+
+    <div class="d-flex align-items-center gap-2">
+      <span class="eyebrow mb-0" style="white-space:nowrap;">Anno</span>
+      <div class="btn-group" role="group" aria-label="Filtra per anno" id="filtri-anno">
+        <button class="btn btn-outline-dark filtro-anno-btn" data-anno="1886" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">1886</button>
+        <button class="btn btn-outline-dark filtro-anno-btn" data-anno="1887" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">1887</button>
+        <button class="btn btn-outline-dark filtro-anno-btn" data-anno="1888" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">1888</button>
+        <button class="btn btn-outline-dark filtro-anno-btn" data-anno="1889" style="border-radius:0; font-family:var(--font-mono); font-size:0.8rem;">1889</button>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="container py-5">
+  <div class="row g-4" id="griglia">
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="parigi" data-anno="1886">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-dark-felt-hat.jpg" alt="Self-Portrait with Dark Felt Hat" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-parigi badge">Parigi</span>
+          <span class="meta">1886</span>
+          <h3 class="card-title mt-1">Self-Portrait with Dark Felt Hat</h3>
+          <a href="item/self-portrait-dark-felt-hat.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="parigi" data-anno="1887">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-grey-felt-hat.jpg" alt="Self-Portrait with Grey Felt Hat" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-parigi badge">Parigi</span>
+          <span class="meta">1887</span>
+          <h3 class="card-title mt-1">Self-Portrait with Grey Felt Hat</h3>
+          <a href="item/self-portrait-grey-felt-hat.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="parigi" data-anno="1887-1888">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-as-painter.jpg" alt="Self-Portrait as a Painter" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-parigi badge">Parigi</span>
+          <span class="meta">1887–88</span>
+          <h3 class="card-title mt-1">Self-Portrait as a Painter</h3>
+          <a href="item/self-portrait-as-painter.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="arles" data-anno="1888">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-dedicated-gauguin.jpg" alt="Self-Portrait Dedicated to Paul Gauguin" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-arles badge">Arles</span>
+          <span class="meta">set. 1888</span>
+          <h3 class="card-title mt-1">Self-Portrait Dedicated to Paul Gauguin</h3>
+          <a href="item/self-portrait-dedicated-gauguin.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="arles" data-anno="1889">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-bandaged-ear.jpg" alt="Self-Portrait with Bandaged Ear" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-arles badge">Arles</span>
+          <span class="meta">gen. 1889</span>
+          <h3 class="card-title mt-1">Self-Portrait with Bandaged Ear</h3>
+          <a href="item/self-portrait-bandaged-ear.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="saintremy" data-anno="1889">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-orsay.jpg" alt="Self-Portrait (Musée d'Orsay)" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-saintremy badge">Saint-Rémy</span>
+          <span class="meta">set. 1889</span>
+          <h3 class="card-title mt-1">Self-Portrait (Musée d'Orsay)</h3>
+          <a href="item/self-portrait-orsay.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="saintremy" data-anno="1889">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-palette.jpg" alt="Self-Portrait with Palette" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-saintremy badge">Saint-Rémy</span>
+          <span class="meta">set. 1889</span>
+          <h3 class="card-title mt-1">Self-Portrait with Palette</h3>
+          <a href="item/self-portrait-palette.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4 col-lg-3 item-card" data-luogo="saintremy" data-anno="1889">
+      <div class="portrait-card h-100">
+        <img src="assets/img/self-portrait-oslo.jpg" alt="Self-Portrait (National Museum, Oslo)" style="width:100%; aspect-ratio:4/5; object-fit:cover; display:block;">
+        <div class="card-body p-3">
+          <span class="badge-tipo badge-saintremy badge">Saint-Rémy</span>
+          <span class="meta">1889</span>
+          <h3 class="card-title mt-1">Self-Portrait (National Museum, Oslo)</h3>
+          <a href="item/self-portrait-oslo.html">→ scheda item</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <p class="meta mt-3">* Le lettere abbinate a ciascun autoritratto compaiono nella rispettiva scheda item, non come card separate nel catalogo.</p>
+</section>
+
+<footer>
+  <div class="container">
+    <p class="mb-0">Van Gogh: 8 autoritratti e lettere (1886-1889)</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dati — Van Gogh: 8 autoritratti e lettere (1886-1889)</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  .dati-table th a, .dati-table td a { color: var(--blue); }
+  .auth-box { border: 1px solid var(--line); background: #fff; padding: 1.2rem 1.5rem; margin-bottom: 2rem; }
+  .auth-box .eyebrow { margin-bottom: 0.5rem; }
+  .mini-table { font-family: var(--font-mono); font-size: 0.85rem; }
+  .mini-table th { background: var(--blue-deep); color: var(--cream); font-family: var(--font-display); font-weight: normal; }
+  .section-divider { border-top: 2px dashed var(--line); margin: 3rem 0 2rem; padding-top: 0.5rem; }
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dh">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">Van Gogh: 8 autoritratti e lettere (1886-1889)</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Catalogo</a>
+          <ul class="dropdown-menu dropdown-menu-dark">
+            <li><a class="dropdown-item" href="catalogo.html">Immagini</a></li>
+            <li><a class="dropdown-item" href="mappa.html">Mappa</a></li>
+            <li><a class="dropdown-item" href="timeline.html">Cronologia</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="lettere.html">Lettere</a></li>
+        <li class="nav-item"><a class="nav-link active" href="dati.html">Dati</a></li>
+        <li class="nav-item"><a class="nav-link" href="progetto.html">Il progetto</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header class="py-5" style="border-bottom:1px solid var(--line); background-color: var(--cream); background-image: repeating-linear-gradient(135deg, rgba(30,58,95,0.15), rgba(30,58,95,0.15) 3px, transparent 3px, transparent 16px);">
+  <div class="container">
+   <p class="eyebrow">05 · Dati</p>
+    <h1>Tabelle dei dati</h1>
+    <p class="lead-text">
+      Metadati strutturati di 15 item (8 autoritratti + 7 lettere), con
+      riconciliazione a record di autorità per opere, persone e concetti citati.
+    </p>
+  </div>
+</header>
+
+<div class="container py-5">
+
+  <!-- ============ AUTORE (costante su tutti gli item) ============ -->
+  <div class="auth-box">
+    <p class="eyebrow">Autore — presente su tutti gli 8 item</p>
+    <p class="mb-0">
+      Vincent van Gogh —
+      <a href="https://www.wikidata.org/wiki/Q5582" target="_blank">Wikidata Q5582</a> ·
+      <a href="http://viaf.org/viaf/9854560" target="_blank">VIAF 9854560</a> ·
+      <a href="https://www.getty.edu/vow/ULANFullDisplay?find=van+gogh&role=&nation=&subjectid=500115588" target="_blank">Getty ULAN 500115588</a>
+    </p>
+  </div>
+
+  <!-- ============ TABELLA PRINCIPALE — ITEM (AUTORITRATTI) ============ -->
+  <p class="eyebrow mb-3">Gli 8 autoritratti</p>
+  <div style="overflow-x:auto;">
+    <table class="table table-bordered dati-table align-middle">
+      <thead>
+        <tr><th>Titolo</th><th>Luogo</th><th>Data</th><th>Collezione</th><th>Cat. F/JH</th><th>Opera (Wikidata)</th><th>Item</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Self-Portrait with Dark Felt Hat</td>
+          <td><a href="https://www.geonames.org/2988507/paris.html" target="_blank">Parigi</a></td>
+          <td>1886</td>
+          <td>Van Gogh Museum, Amsterdam</td>
+          <td>F208a/JH1089</td>
+          <td><a href="https://www.wikidata.org/wiki/Q19835891" target="_blank">Q19835891</a></td>
+          <td><a href="item/self-portrait-dark-felt-hat.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-Portrait with Grey Felt Hat</td>
+          <td><a href="https://www.geonames.org/2988507/paris.html" target="_blank">Parigi</a></td>
+          <td>1887</td>
+          <td>Van Gogh Museum, Amsterdam</td>
+          <td>F344/JH1353</td>
+          <td><a href="https://www.wikidata.org/wiki/Q18238237" target="_blank">Q18238237</a></td>
+          <td><a href="item/self-portrait-grey-felt-hat.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-Portrait as a Painter</td>
+          <td><a href="https://www.geonames.org/2988507/paris.html" target="_blank">Parigi</a></td>
+          <td>1887-88</td>
+          <td>Van Gogh Museum, Amsterdam</td>
+          <td>F522/JH1356</td>
+          <td><a href="https://www.wikidata.org/wiki/Q9162674" target="_blank">Q9162674</a></td>
+          <td><a href="item/self-portrait-as-painter.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-Portrait Dedicated to Paul Gauguin</td>
+          <td><a href="https://www.geonames.org/3036938/arles.html" target="_blank">Arles</a></td>
+          <td>1888</td>
+          <td>Harvard Art Museums</td>
+          <td>F476/JH1581</td>
+          <td><a href="https://www.wikidata.org/wiki/Q3643629" target="_blank">Q3643629</a></td>
+          <td><a href="item/self-portrait-dedicated-gauguin.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-Portrait with Bandaged Ear</td>
+          <td><a href="https://www.geonames.org/3036938/arles.html" target="_blank">Arles</a></td>
+          <td>1889</td>
+          <td>Courtauld Gallery, Londra</td>
+          <td>F527/JH1657</td>
+          <td><a href="https://www.wikidata.org/wiki/Q19363211" target="_blank">Q19363211</a></td>
+          <td><a href="item/self-portrait-bandaged-ear.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-Portrait (Musée d'Orsay)</td>
+          <td><a href="https://www.geonames.org/2977214/saint-remy-de-provence.html" target="_blank">Saint-Rémy</a></td>
+          <td>1889</td>
+          <td>Musée d'Orsay, Parigi</td>
+          <td>F627/JH1772</td>
+          <td><a href="https://www.wikidata.org/wiki/Q3630735" target="_blank">Q3630735</a></td>
+          <td><a href="item/self-portrait-orsay.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-Portrait with Palette</td>
+          <td><a href="https://www.geonames.org/2977214/saint-remy-de-provence.html" target="_blank">Saint-Rémy</a></td>
+          <td>1889</td>
+          <td>National Gallery of Art, Washington</td>
+          <td>F626/JH1770</td>
+          <td><a href="https://www.wikidata.org/wiki/Q9162658" target="_blank">Q9162658</a></td>
+          <td><a href="item/self-portrait-palette.html">→</a></td>
+        </tr>
+        <tr>
+          <td>Self-portrait (Oslo)</td>
+          <td><a href="https://www.geonames.org/2977214/saint-remy-de-provence.html" target="_blank">Saint-Rémy</a></td>
+          <td>1889</td>
+          <td>National Museum, Oslo</td>
+          <td>F528/JH1780</td>
+          <td><a href="https://www.wikidata.org/wiki/Q9162686" target="_blank">Q9162686</a></td>
+          <td><a href="item/self-portrait-oslo.html">→</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ============ TABELLA LETTERE (ITEM A Sé) ============ -->
+  <div class="section-divider">
+    <p class="eyebrow mb-3">Le 7 lettere</p>
+    <div style="overflow-x:auto;">
+      <table class="table table-bordered dati-table align-middle">
+        <thead>
+          <tr><th>Lettera</th><th>Data</th><th>Luogo</th><th>Destinatario</th><th>Item collegato/i</th><th>DC</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>567</td><td>1 marzo 1886</td>
+            <td><a href="https://www.geonames.org/2988507/paris.html" target="_blank">Parigi</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q317188" target="_blank">Theo</a></td>
+            <td><a href="item/self-portrait-dark-felt-hat.html">Dark Felt Hat</a></td>
+            <td><a href="data/lettera-567-dc.xml" target="_blank">xml</a></td>
+          </tr>
+          <tr>
+            <td>574</td><td>ottobre 1887</td>
+            <td><a href="https://www.geonames.org/2988507/paris.html" target="_blank">Parigi</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q4140958" target="_blank">Willemien</a></td>
+            <td><a href="item/self-portrait-grey-felt-hat.html">Grey Felt Hat</a></td>
+            <td><a href="data/lettera-574-dc.xml" target="_blank">xml</a></td>
+          </tr>
+          <tr>
+            <td>626</td><td>16-20 giugno 1888</td>
+            <td><a href="https://www.geonames.org/3036938/arles.html" target="_blank">Arles</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q4140958" target="_blank">Willemien</a></td>
+            <td><a href="item/self-portrait-as-painter.html">As a Painter</a></td>
+            <td><a href="data/lettera-626-dc.xml" target="_blank">xml</a></td>
+          </tr>
+          <tr>
+            <td>697</td><td>4-5 ottobre 1888</td>
+            <td><a href="https://www.geonames.org/3036938/arles.html" target="_blank">Arles</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q317188" target="_blank">Theo</a></td>
+            <td><a href="item/self-portrait-dedicated-gauguin.html">Dedicated to Gauguin</a></td>
+            <td><a href="data/lettera-697-dc.xml" target="_blank">xml</a></td>
+          </tr>
+          <tr>
+            <td>736</td><td>17 gennaio 1889</td>
+            <td><a href="https://www.geonames.org/3036938/arles.html" target="_blank">Arles</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q317188" target="_blank">Theo</a></td>
+            <td><a href="item/self-portrait-bandaged-ear.html">Bandaged Ear</a></td>
+            <td><a href="data/lettera-736-dc.xml" target="_blank">xml</a></td>
+          </tr>
+          <tr>
+            <td>800</td><td>5-6 settembre 1889</td>
+            <td><a href="https://www.geonames.org/2977214/saint-remy-de-provence.html" target="_blank">Saint-Rémy</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q317188" target="_blank">Theo</a></td>
+            <td><a href="item/self-portrait-orsay.html">Orsay</a> + <a href="item/self-portrait-palette.html">Palette</a></td>
+            <td><a href="data/lettera-800-dc.xml" target="_blank">xml</a></td>
+          </tr>
+          <tr>
+            <td>805</td><td>20 settembre 1889</td>
+            <td><a href="https://www.geonames.org/2977214/saint-remy-de-provence.html" target="_blank">Saint-Rémy</a></td>
+            <td><a href="https://www.wikidata.org/wiki/Q317188" target="_blank">Theo</a></td>
+            <td><a href="item/self-portrait-oslo.html">Oslo</a></td>
+            <td><a href="data/lettera-805-dc.xml" target="_blank">xml</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="meta mt-2">* La lettera 800 è collegata a due item (descrive due autoritratti nello stesso testo) — vedi <a href="lettere.html">pagina Lettere</a> per il testo integrale di ciascuna.</p>
+  </div>
+
+  <!-- ============ TABELLA PERSONE ============ -->
+  <div class="section-divider">
+    <p class="eyebrow mb-3">Persone citate nelle lettere</p>
+    <div style="overflow-x:auto;">
+      <table class="table table-bordered mini-table align-middle">
+        <thead>
+          <tr><th>Nome</th><th>Ruolo</th><th>Wikidata</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Theo van Gogh</td><td>Fratello, mercante d'arte, destinatario di 5 lettere</td><td><a href="https://www.wikidata.org/wiki/Q317188" target="_blank">Q317188</a></td></tr>
+          <tr><td>Willemien van Gogh</td><td>Sorella, destinataria di 2 lettere</td><td><a href="https://www.wikidata.org/wiki/Q4140958" target="_blank">Q4140958</a></td></tr>
+          <tr><td>Paul Gauguin</td><td>Pittore, corrispondenza sullo scambio di autoritratti (lettera 697)</td><td><a href="https://www.wikidata.org/wiki/Q37693" target="_blank">Q37693</a></td></tr>
+          <tr><td>Émile Bernard</td><td>Pittore, citato nella lettera 697</td><td><a href="https://www.wikidata.org/wiki/Q264193" target="_blank">Q264193</a></td></tr>
+          <tr><td>Camille Pissarro</td><td>Pittore, citato nella lettera 805</td><td><a href="https://www.wikidata.org/wiki/Q134741" target="_blank">Q134741</a></td></tr>
+          <tr><td>Jean-François Millet</td><td>Pittore, modello di riferimento citato nella lettera 805</td><td><a href="https://www.wikidata.org/wiki/Q148458" target="_blank">Q148458</a></td></tr>
+          <tr><td>Eugène Delacroix</td><td>Pittore, modello di riferimento citato nelle lettere 800 e 805</td><td><a href="https://www.wikidata.org/wiki/Q33477" target="_blank">Q33477</a></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ============ TABELLA LUOGHI ============ -->
+  <div class="section-divider">
+    <p class="eyebrow mb-3">Luoghi</p>
+    <div style="overflow-x:auto;">
+      <table class="table table-bordered mini-table align-middle">
+        <thead>
+          <tr><th>Luogo</th><th>Periodo</th><th>Geonames</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Parigi</td><td>1886–1888</td><td><a href="https://www.geonames.org/2988507/paris.html" target="_blank">2988507</a></td></tr>
+          <tr><td>Arles</td><td>1888–1889</td><td><a href="https://www.geonames.org/3036938/arles.html" target="_blank">3036938</a></td></tr>
+          <tr><td>Saint-Rémy-de-Provence</td><td>1889</td><td><a href="https://www.geonames.org/2977214/saint-remy-de-provence.html" target="_blank">2977214</a></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ============ CONCETTI / MOVIMENTO ============ -->
+  <div class="section-divider">
+    <p class="eyebrow mb-3">Concetti e movimento</p>
+    <div style="overflow-x:auto;">
+      <table class="table table-bordered mini-table align-middle">
+        <thead>
+          <tr><th>Concetto</th><th>Wikidata</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Post-Impressionismo</td><td><a href="https://www.wikidata.org/wiki/Q166713" target="_blank">Q166713</a></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="meta mt-3">
+      Standard valutato ma non adottato per le singole opere: Getty CONA (Cultural Objects Name Authority) —
+      vedi <a href="progetto.html">nota metodologica</a> per la motivazione.
+    </p>
+  </div>
+
+</div>
+
+<footer>
+  <div class="container">
+    <p class="mb-0">Van Gogh: 8 autoritratti e lettere (1886-1889)</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

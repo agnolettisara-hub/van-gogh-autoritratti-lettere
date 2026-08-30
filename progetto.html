@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Il progetto — Van Gogh: 8 autoritratti e lettere (1886-1889)</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dh">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">Van Gogh: 8 autoritratti e lettere (1886-1889)</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Catalogo</a>
+  <ul class="dropdown-menu dropdown-menu-dark">
+    <li><a class="dropdown-item" href="catalogo.html">Immagini</a></li>
+    <li><a class="dropdown-item" href="mappa.html">Mappa</a></li>
+    <li><a class="dropdown-item" href="timeline.html">Cronologia</a></li>
+  </ul>
+</li>
+        <li class="nav-item"><a class="nav-link" href="lettere.html">Lettere</a></li>
+        <li class="nav-item"><a class="nav-link" href="dati.html">Dati</a></li>
+        <li class="nav-item"><a class="nav-link active" href="progetto.html">Il progetto</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header class="py-5" style="border-bottom:1px solid var(--line); background-color: var(--cream); background-image: repeating-linear-gradient(135deg, rgba(30,58,95,0.15), rgba(30,58,95,0.15) 3px, transparent 3px, transparent 16px);">
+  <div class="container">
+    <p class="eyebrow">06 · Il progetto</p>
+    <h1>Struttura e metodi</h1>
+  </div>
+</header>
+
+<div class="container py-5" style="max-width:70ch;">
+  <h3>Obiettivo di ricerca</h3>
+<p>
+  Gli autoritratti sono stati scelti perché, grazie ad una visione diretta del volto dell'autore, più di qualunque altra tipologia
+  pittorica nella produzione di Van Gogh, permettono di indagare un duplice
+  cambiamento: quello tecnico e quello legato alla costruzione di
+  un'identità precisa, osservabile attraverso la variazione dello sguardo e della salute mentale
+  nel tempo. Il progetto cerca così di esplorare il legame tra
+  stile, condizione psichica e influenze esterne, al tempo stesso testimoniando la volontà dell'artista di
+  esprimere se stesso attraverso l'autoritratto. Inoltre, affiancando a ciascuna
+  opera le parole scritte dallo stesso pittore nello stesso periodo, le
+  lettere servono sia da conferma sia da fonte storicamente solida. La forma digitale del progetto permette infine
+  di condensare in un unico spazio, accessibile da qualunque luogo, elementi
+  che altrimenti resterebbero dispersi — mappe, cronologia, archivio delle
+  lettere, dati riconciliati — offrendo una lettura integrata e trasversale.
+</p></p>
+
+  <h3 class="mt-4">La collezione</h3>
+  <p>
+    Il progetto raccoglie <strong>15 item</strong>: 8 autoritratti (1886-1889) e
+    le 7 lettere ad essi collegate (5 a Theo, 2 alla sorella Willemien — la
+    lettera 800 è collegata a due autoritratti, Orsay e Palette, descritti
+    nello stesso testo). Ogni item, dipinto o lettera, ha una propria scheda
+    di metadati XML/Dublin Core; le lettere hanno inoltre il testo integrale
+    codificato in XML/TEI.
+  </p>
+
+  <h3 class="mt-4">Standard adottati</h3>
+  <ul>
+    <li><strong>Dublin Core</strong> per i metadati di tutti e 15 gli item (autoritratti e lettere)</li>
+    <li><strong>TEI</strong> per il testo integrale delle 7 lettere</li>
+    <li><strong>VRA Core</strong> valutato come alternativa a Dublin Core per le opere visive, non adottato per coerenza con l'uso già fatto nel resto del corso</li>
+  </ul>
+
+  <h3 class="mt-4">Record di autorità e vocabolari controllati</h3>
+  <ul>
+    <li><strong>Wikidata</strong> — persona (autore, destinatari, altri artisti citati nelle lettere), opera (per ogni singolo dipinto), movimento (Post-Impressionismo)</li>
+    <li><strong>VIAF</strong> e <strong>Getty ULAN</strong> — autorità aggiuntive per l'autore</li>
+    <li><strong>Geonames</strong> — i tre luoghi (Parigi, Arles, Saint-Rémy-de-Provence), riconciliati sia in HTML sia nel codice XML (<code>dcterms:spatial</code>)</li>
+  </ul>
+  <h3 class="mt-4">Standard valutati per le singole opere</h3>
+<p>
+  Oltre a Wikidata (usato sistematicamente per l'autore, il movimento e, dove
+  disponibile, le singole opere), è stato valutato anche <strong>Getty CONA</strong>
+  (Cultural Objects Name Authority) — il vocabolario Getty pensato specificamente
+  per l'identificazione di opere culturali, complementare a ULAN (persone) e AAT
+  (concetti/tecniche). CONA non è stato adottato sistematicamente: la sua copertura
+  per dipinti di musei come Van Gogh Museum, Musée d'Orsay o Harvard Art Museums
+  risulta più limitata e meno facilmente consultabile via web rispetto a Wikidata,
+  che aggrega già dati da più cataloghi scientifici (De la Faille "F", Hulsker "JH")
+  ed è verificabile pubblicamente in modo diretto.
+</p>
+
+  <h3 class="mt-4">Metodi di navigazione</h3>
+  <ul>
+    <li><strong>Immagini</strong> — card con doppio filtro combinabile, per luogo (Parigi/Arles/Saint-Rémy) e per anno (1886-1889)</li>
+    <li><strong>Mappa</strong> interattiva (Leaflet) — navigazione spaziale, marker colorati per fase con legenda</li>
+    <li><strong>Cronologia</strong> (Google Charts) — navigazione temporale, barre cliccabili verso ogni scheda item</li>
+    <li><strong>Lettere</strong> — filtro per destinatario (Theo / Willemien)</li>
+  </ul>
+
+  <h3 class="mt-4">Componenti Bootstrap utilizzati</h3>
+  <p>Navbar, Card, Badge, Table, Button group, Dropdown, Accordion.</p>
+
+  <h3 class="mt-4">Tool esterni integrati</h3>
+  <p>Leaflet (mappa), Google Charts (cronologia) — due tool, oltre il minimo richiesto.</p>
+
+  <h3 class="mt-4">Nota sui diritti</h3>
+  <p>
+    Le opere pittoriche di Van Gogh sono di pubblico dominio (autore deceduto
+    nel 1890). Le lettere originali (in francese/olandese) sono anch'esse di
+    pubblico dominio; le loro <strong>traduzioni inglesi moderne</strong>
+    pubblicate dal Van Gogh Letters Project (2009) possono però essere ancora
+    protette da copyright come opera di traduzione recente — per questo negli
+    estratti si preferisce la citazione breve o la traduzione autonoma dal
+    testo originale, invece della trascrizione integrale della traduzione
+    ufficiale.
+  </p>
+</div>
+
+<footer>
+  <div class="container">
+    <p class="mb-0">Van Gogh: 8 autoritratti e lettere (1886-1889)</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

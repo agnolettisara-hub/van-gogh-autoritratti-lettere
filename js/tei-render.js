@@ -18,7 +18,6 @@ function teiRefLink(cls, inner, href) {
   return '<span class="' + cls + '">' + inner + '</span>';
 }
 
-// Costruisce una mappa xml:id -> sameAs leggendo <person> e <place> nell'header
 function buildIdMap(xmlDoc) {
   const map = {};
   ['person', 'place'].forEach(function (tagName) {
@@ -34,7 +33,6 @@ function buildIdMap(xmlDoc) {
   return map;
 }
 
-// Converte ricorsivamente i nodi XML in HTML
 function teiWalk(node, idMap) {
   let html = '';
   node.childNodes.forEach(function (child) {

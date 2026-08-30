@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Self-Portrait Dedicated to Paul Gauguin</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q3643629</dcterms:identifier>
+  <dc:description>Autoritratto dipinto da Vincent van Gogh ad Arles nel 1888, concepito come dono per Paul Gauguin in uno scambio di autoritratti tra artisti. Descritto dallo stesso Van Gogh in una lettera a Theo (lettera 697, ottobre 1888), in cui racconta di aver ricevuto l'autoritratto di Gauguin e di avergli inviato in cambio il proprio, concepito come "quello di un bonzo, semplice adoratore del Buddha eterno".</dc:description>
+
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>Arles</dc:subject>
+  <dc:subject>Post-Impressionismo</dc:subject>
+  <dcterms:subject xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q166713</dcterms:subject>
+
+  <dc:date>1888</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>olio su tela</dc:format>
+  <dcterms:extent>61,5 x 50,3 cm</dcterms:extent>
+
+  <dc:coverage>Arles</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/3036938/arles.html</dcterms:spatial>
+
+  <dc:language>fr</dc:language>
+  <dc:rights>Opera di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Harvard Art Museums, Cambridge (MA)</dc:source>
+  <dc:publisher>Harvard Art Museums, Cambridge (MA)</dc:publisher>
+
+  <dcterms:isPartOf>Autoritratti — Vincent van Gogh (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">Lettera 697 a Theo (4-5 ottobre 1888) — lo scambio di autoritratti con Gauguin</dc:relation>
+  <dc:relation type="tematica">Self-Portrait with Bandaged Ear (1889) — pochi mesi dopo, a rottura avvenuta</dc:relation>
+
+</record>

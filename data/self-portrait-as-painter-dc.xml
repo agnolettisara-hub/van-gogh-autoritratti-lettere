@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Self-Portrait as a Painter</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q9162674</dcterms:identifier>
+  <dc:description>Autoritratto dipinto da Vincent van Gogh a Parigi nell'inverno 1887-88, l'unico in cui l'artista si ritrae esplicitamente nel proprio ruolo di pittore, con tavolozza in mano. Descritto dallo stesso Van Gogh in una lettera alla sorella Willemien (lettera 626, giugno 1888), in cui paragona l'immagine al volto della morte e riflette sulla ricerca di una somiglianza più profonda di quella fotografica.</dc:description>
+
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>Parigi</dc:subject>
+  <dc:subject>Post-Impressionismo</dc:subject>
+  <dcterms:subject xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q166713</dcterms:subject>
+
+  <dc:date>1887-12</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>olio su tela</dc:format>
+  <dcterms:extent>65,1 x 50 cm</dcterms:extent>
+
+  <dc:coverage>Parigi</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/2988507/paris.html</dcterms:spatial>
+
+  <dc:language>fr</dc:language>
+  <dc:rights>Opera di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Van Gogh Museum, Amsterdam</dc:source>
+  <dc:publisher>Van Gogh Museum, Amsterdam</dc:publisher>
+
+  <dcterms:isPartOf>Autoritratti — Vincent van Gogh (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">Self-Portrait Dedicated to Paul Gauguin (1888) — primo autoritratto dopo la partenza da Parigi</dc:relation>
+  <dc:relation type="tematica">Self-Portrait with Grey Felt Hat (1887) — stesso periodo parigino</dc:relation>
+
+</record>

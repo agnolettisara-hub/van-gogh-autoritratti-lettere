@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Biglietto a Theo van Gogh, Parigi, febbraio 1886 (testo originale francese)</title>
+<author ref="https://www.wikidata.org/wiki/Q5582">Vincent van Gogh</author>
+</titleStmt>
+<publicationStmt>
+<p>Trascrizione a cura di Sara Agnoletti, progetto "Van Gogh: 8 autoritratti e lettere (1886-1889)", 2026.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Fonte: Van Gogh Letters Project (Van Gogh Museum / Huygens ING), lettera n. 567, testo originale francese. https://vangoghletters.org/en/let567 Corrisponde alla "Letter 459" nella vecchia numerazione Complete Letters. Testo di pubblico dominio (autore deceduto nel 1890).</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1886-03"/>
+</creation>
+<langUsage>
+<language ident="fr">Francese (originale)</language>
+</langUsage>
+<particDesc>
+<listPerson>
+<person xml:id="vincent" sameAs="https://www.wikidata.org/wiki/Q5582">
+<persName>Vincent van Gogh</persName>
+</person>
+<person xml:id="theo" sameAs="https://www.wikidata.org/wiki/Q317188">
+<persName>Theo van Gogh</persName>
+</person>
+</listPerson>
+</particDesc>
+<settingDesc>
+<listPlace>
+<place xml:id="parigi" sameAs="https://www.geonames.org/2988507/paris.html">
+<placeName>Parijs</placeName>
+</place>
+<place xml:id="louvre" sameAs="https://www.wikidata.org/wiki/Q19675">
+<placeName>Louvre</placeName>
+</place>
+</listPlace>
+</settingDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="estratto">
+<p>
+Il biglietto con cui Van Gogh annuncia a
+<persName ref="#theo">Theo</persName>
+il proprio arrivo improvviso a Parigi, scritto a matita nera alla stazione e recapitato tramite un facchino. È l'inizio del periodo parigino in cui, nei mesi successivi, dipingerà i primi autoritratti — tra cui questo.
+</p>
+</div>
+<div type="lettera">
+<opener>
+<salute>Mon cher Theo,</salute>
+</opener>
+<p>
+Ne m'en veux pas d'être venu tout d'un trait, j'y ai tant réfléchi et je crois que de cette manière nous gagnons du temps. Serai au
+<placeName ref="#louvre">Louvre</placeName>
+à partir de midi ou plus tôt si tu veux.
+</p>
+<p>Réponse s.v.p. pour savoir à quelle heure tu pourrais venir dans la Salle Carrée.</p>
+<p>Quant aux frais, je te le répète, cela revient au même. J'ai de l'argent de reste, cela va sans dire, et avant de faire aucune dépense, je désire te parler. Nous arrangerons la chose, tu verras. Ainsi, viens-y le plus tôt possible.</p>
+<closer>
+<salute>Je te serre la main,</salute>
+<signed>
+t.à toi
+<persName ref="#vincent">Vincent</persName>
+</signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

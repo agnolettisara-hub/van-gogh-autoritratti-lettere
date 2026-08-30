@@ -1,0 +1,154 @@
+/* =========================================================
+   Autoritratti — Vincent van Gogh (1886–1889)
+   Design tokens — tavolozza Van Gogh
+   ========================================================= */
+:root {
+  --cream: #F4EDE0;       /* fondo caldo, non il classico bianco museo */
+  --ink: #1B1B1B;
+  --blue: #1E3A5F;        /* blu di Prussia */
+  --blue-deep: #10233B;
+  --yellow: #E8A93A;      /* giallo cromo smorzato */
+  --yellow-bright: #F2C14E;
+  --green: #4A6B4D;       /* verde cipresso, uso minimo */
+  --line: #D9CBB0;
+
+  --font-display: 'Fraunces', Georgia, serif;   /* serif espressiva, non geometrica */
+  --font-body: 'Source Serif 4', Georgia, serif;
+  --font-mono: 'IBM Plex Mono', 'Courier New', monospace;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.65;
+}
+
+a { color: var(--blue); text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; color: var(--yellow); }
+a:focus-visible, button:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
+
+h1, h2, h3, .display {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--blue-deep);
+}
+
+.eyebrow, .meta, .caption, .label {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #5A5040;
+}
+
+/* ---------- Navbar ---------- */
+.navbar-dh {
+  background-color: var(--blue-deep);
+  border-bottom: 4px solid var(--yellow);
+}
+.navbar-dh .navbar-brand {
+  font-family: var(--font-display);
+  color: var(--cream) !important;
+  font-size: 1.15rem;
+}
+.navbar-dh .nav-link {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+  color: var(--cream) !important;
+  opacity: 0.85;
+}
+.navbar-dh .nav-link.active, .navbar-dh .nav-link.dropdown-toggle.active { opacity: 1; border-bottom: 2px solid var(--yellow); }
+.navbar-dh .dropdown-menu { background: var(--blue-deep); border: 1px solid var(--blue); border-radius: 0; }
+.navbar-dh .dropdown-item { font-family: var(--font-mono); font-size: 0.82rem; color: var(--cream); }
+.navbar-dh .dropdown-item:hover { background: var(--yellow); color: var(--blue-deep); }
+
+/* ---------- Hero — pennellata di sfondo ---------- */
+.hero {
+  position: relative;
+  padding: 5.5rem 0 4.5rem;
+  background:
+    radial-gradient(ellipse at 80% 20%, rgba(232,169,58,0.35), transparent 55%),
+    radial-gradient(ellipse at 10% 80%, rgba(30,58,95,0.25), transparent 55%),
+    var(--blue-deep);
+  color: var(--cream);
+  overflow: hidden;
+}
+.hero .stamp {
+  display: inline-block;
+  border: 2px solid var(--yellow);
+  color: var(--yellow-bright);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  padding: 0.2rem 0.6rem;
+  margin-bottom: 1.2rem;
+}
+.hero h1 { font-size: clamp(2.2rem, 5.5vw, 3.8rem); max-width: 16ch; margin-bottom: 1rem; color: var(--cream); }
+.hero .lead-text { max-width: 58ch; font-size: 1.1rem; }
+
+/* ---------- Card ritratto ---------- */
+.portrait-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  box-shadow: 0 2px 0 var(--line);
+  transition: transform 0.15s ease;
+}
+.portrait-card:hover { transform: translateY(-4px); }
+.portrait-card .ph-img {
+  aspect-ratio: 4/5;
+  background: #E4D9C2;
+  border-bottom: 1px solid var(--line);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-mono); font-size: 0.7rem; color: #7a6f57;
+  text-align: center; padding: 0.5rem;
+}
+.portrait-card .card-body { font-family: var(--font-body); }
+.portrait-card .card-title { font-family: var(--font-display); font-size: 1.1rem; }
+
+.badge-tipo {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 0;
+  padding: 0.3em 0.55em;
+}
+.badge-immagine { background: var(--blue); color: var(--cream); }
+.badge-testo    { background: var(--yellow); color: var(--blue-deep); }
+.badge-parigi   { background: #8C9E6E; color: #fff; }
+.badge-arles    { background: #C1622D; color: #fff; }
+.badge-saintremy{ background: #5C4A8A; color: #fff; }
+
+/* ---------- Item detail ---------- */
+.item-figure { border: 1px solid var(--line); background: #E4D9C2; }
+.item-figure img { width: 100%; display: block; }
+.excerpt {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.15rem;
+  background: var(--blue-deep);
+  color: var(--cream);
+  border-left: 6px solid var(--yellow);
+  padding: 1.2rem 1.4rem;
+}
+aside.related { border-top: 2px dashed var(--line); margin-top: 3rem; padding-top: 1.5rem; }
+.related-link { display: block; font-family: var(--font-mono); font-size: 0.85rem; padding: 0.4rem 0; border-bottom: 1px solid var(--line); }
+
+/* ---------- Testo TEI renderizzato via JS ---------- */
+.tei-viewer { font-family: var(--font-body); line-height: 1.7; background: #fff; border: 1px solid var(--line); padding: 1.5rem 1.8rem; }
+.tei-viewer p { margin-bottom: 1rem; }
+.tei-viewer .tei-head { font-family: var(--font-display); font-size: 1.2rem; margin: 1.5rem 0 1rem; }
+.tei-persname, .tei-placename { color: var(--blue); font-weight: 600; border-bottom: 1px dotted var(--blue); }
+.tei-signature { font-family: var(--font-mono); text-align: right; margin-top: 1.5rem; }
+
+/* ---------- Data table ---------- */
+table.dati-table { font-family: var(--font-mono); font-size: 0.85rem; }
+table.dati-table th { font-family: var(--font-display); background: var(--blue-deep); color: var(--cream); font-weight: normal; }
+
+/* ---------- Footer ---------- */
+footer { border-top: 4px solid var(--yellow); background: var(--blue-deep); color: var(--cream); font-family: var(--font-mono); font-size: 0.8rem; padding: 2rem 0; }
+
+@media (prefers-reduced-motion: reduce) { .portrait-card, .portrait-card:hover { transition: none; transform: none; } }

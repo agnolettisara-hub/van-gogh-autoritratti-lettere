@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Lettera a Theo van Gogh, Parigi, 1 marzo 1886 circa (lettera 567)</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://vangoghletters.org/en/let567</dcterms:identifier>
+  <dc:description>Biglietto con cui Van Gogh annuncia a Theo il proprio arrivo improvviso a Parigi, fissando un incontro al Louvre. Segna l'inizio del periodo parigino.</dc:description>
+
+  <dc:contributor>Theo van Gogh</dc:contributor>
+  <dcterms:contributor xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q317188</dcterms:contributor>
+  <dc:publisher>Van Gogh Museum / Huygens ING (Van Gogh Letters Project)</dc:publisher>
+
+  <dc:type>Text</dc:type>
+  <dc:format>lettera manoscritta</dc:format>
+  <dc:date>1886-03-01</dc:date>
+  <dc:language>fr</dc:language>
+
+  <dc:subject>corrispondenza</dc:subject>
+  <dc:subject>arrivo a Parigi</dc:subject>
+
+  <dc:coverage>Parigi</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/2988507/paris.html</dcterms:spatial>
+
+  <dc:rights>Testo di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Van Gogh Letters Project, lettera 567 — https://vangoghletters.org/en/let567</dc:source>
+
+  <dcterms:isPartOf>Van Gogh: 8 autoritratti e lettere (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">self-portrait-dark-felt-hat-dc.xml — Self-Portrait with Dark Felt Hat (1886)</dc:relation>
+
+</record>

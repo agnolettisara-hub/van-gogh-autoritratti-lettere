@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Self-Portrait</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q3630735</dcterms:identifier>
+  <dc:description>Autoritratto dipinto da Vincent van Gogh a Saint-Rémy-de-Provence nel settembre 1889, il secondo dei due autoritratti descritti nella stessa lettera a Theo (lettera 800, 5-6 settembre 1889). Van Gogh lo mette a confronto con gli autoritratti parigini, commentando di apparirvi "più sano, e persino molto di più".</dc:description>
+  
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>Saint-Rémy-de-Provence</dc:subject>
+  <dc:subject>Post-Impressionismo</dc:subject>
+  <dcterms:subject xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q166713</dcterms:subject>
+  
+
+  <dc:date>1889-09</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>olio su tela</dc:format>
+  <dcterms:extent>65 × 54,2 cm</dcterms:extent>
+
+  <dc:coverage>Saint-Rémy-de-Provence</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/2977214/saint-remy-de-provence.html</dcterms:spatial>
+
+  <dc:language>fr</dc:language>
+  <dc:rights>Opera di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Musée d'Orsay, Parigi</dc:source>
+  <dc:publisher>Musée d'Orsay, Parigi</dc:publisher>
+
+  <dcterms:isPartOf>Autoritratti — Vincent van Gogh (1886-1889)</dcterms:isPartOf>
+
+<dc:relation type="diretta">Lettera 800 a Theo (5-6 settembre 1889) — descrive questo autoritratto</dc:relation>
+<dc:relation type="tematica">Self-Portrait with Palette (1889) — stessa lettera, stesso periodo</dc:relation>
+
+</record>

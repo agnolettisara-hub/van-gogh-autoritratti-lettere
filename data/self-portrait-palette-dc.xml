@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Self-Portrait with Palette</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q9162658</dcterms:identifier>
+  <dc:description>Autoritratto dipinto da Vincent van Gogh a Saint-Rémy-de-Provence nel settembre 1889, il primo dei due autoritratti descritti nella stessa lettera a Theo (lettera 800, 5-6 settembre 1889): "blu violetto scuro, la testa biancastra con i capelli gialli" — magro e pallido, come descritto dallo stesso artista, iniziato il primo giorno in cui si è rialzato dopo la crisi.</dc:description>
+  
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>Saint-Rémy-de-Provence</dc:subject>
+  <dc:subject>Post-Impressionismo</dc:subject>
+  <dcterms:subject xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q166713</dcterms:subject>
+  
+
+  <dc:date>1889-09</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>olio su tela</dc:format>
+  <dcterms:extent>57,79 × 44,5 cm</dcterms:extent>
+  <dc:coverage>Saint-Rémy-de-Provence</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/2977214/saint-remy-de-provence.html</dcterms:spatial>
+
+  <dc:language>fr</dc:language>
+  <dc:rights>Opera di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>National Gallery of Art, Washington</dc:source>
+  <dc:publisher>National Gallery of Art, Washington</dc:publisher>
+
+  <dcterms:isPartOf>Autoritratti — Vincent van Gogh (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">Self-Portrait (Musée d'Orsay, 1889) — dipinti nello stesso periodo a Saint-Rémy</dc:relation>
+  <dc:relation type="tematica">Self-Portrait as a Painter (1887-88) — confronto sulla posa con tavolozza</dc:relation>
+
+</record>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lettera a Willemien van Gogh, Arles, 16-20 giugno 1888 (testo originale olandese, integrale)</title>
+<author ref="https://www.wikidata.org/wiki/Q5582">Vincent van Gogh</author>
+</titleStmt>
+<publicationStmt>
+<p>Trascrizione a cura di Sara Agnoletti, progetto "Van Gogh: 8 autoritratti e lettere (1886-1889)", 2026.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Fonte: Van Gogh Letters Project (Van Gogh Museum / Huygens ING), lettera n. 626, testo originale olandese. https://vangoghletters.org/en/let626 Testo di pubblico dominio (autore deceduto nel 1890).</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1888-06-18"/>
+</creation>
+<langUsage>
+<language ident="nl">Olandese (originale)</language>
+</langUsage>
+<particDesc>
+<listPerson>
+<person xml:id="vincent" sameAs="https://www.wikidata.org/wiki/Q5582">
+<persName>Vincent van Gogh</persName>
+</person>
+<person xml:id="theo" sameAs="https://www.wikidata.org/wiki/Q317188">
+<persName>Theo van Gogh</persName>
+</person>
+<person xml:id="willemien" sameAs="https://www.wikidata.org/wiki/Q4140958">
+<persName>Willemien van Gogh</persName>
+</person>
+</listPerson>
+</particDesc>
+<settingDesc>
+<listPlace>
+<place xml:id="parigi" sameAs="https://www.geonames.org/2988507/paris.html">
+<placeName>Parijs</placeName>
+</place>
+</listPlace>
+</settingDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="estratto">
+<p>
+Scrivendo alla sorella
+<persName ref="#willemien">Willemien</persName>
+da Arles, a distanza di mesi dal ritorno da Parigi, Van Gogh descrive nel dettaglio proprio il
+<em>Self-Portrait as a Painter</em>: si ritrae con tavolozza in mano, paragonando l'immagine al volto della morte in un romanzo che aveva letto, e riflette sul rapporto tra somiglianza fotografica e somiglianza più profonda cercata dalla pittura.
+</p>
+</div>
+<div type="lettera">
+<opener>
+<salute>Lieve Zuster,</salute>
+</opener>
+<p>Wel bedankt voor uw brief waarnaar ik reeds had verlangd, ik durf mij niet naar mijn gevoel te laten gaan om U dikwijls te schrijven of dit uit te lokken uwerzijds. Al die correspondentie draagt niet altijd bij om ons die zenuwachtig van gestel zijn krachtig te houden in gevallen van eventueele onderdompelingen in de melankolie van de soort die ge noemt in uw brief en die ik zelf zoo nu en dan ook heb. Een kennis van me beweerde dat le meilleur traitement pour toutes les maladies c'est de les traiter avec le plus profond mépris.</p>
+<p>Het middel tegen die onderdompelingen die ge noemt groeit voor zoover mij bekend niet onder de bekende geneeskrachtige kruiden. Ik gebruik niet te min groote hoeveelheden slechte koffij in zulke gevallen, niet omdat zulks erg goed is voor een reeds gehavend gebit doch omdat mijn sterke verbeeldingskracht in deze me in staat stelt een geloofsvertrouwen te hebben in de opvroolijkende werking van voornoemd vocht. Gelukkigerwijs voor mijn medeschepselen heb ik tot heden mij zorgvuldig onthouden hen dit of dergelijke middelen als doeltreffend te recommandeeren. De zon van hier, dat is iets anders, en als men eens een tijd lang wijn drinkt die althans voor een deel uit druiven geperst is. Ik verzeker U dat de menschen bij ons blind zijn als mollen en schuldig dom dat zij er niet meer werk van maken naar Indie of ergens anders waar de zon schijnt te gaan. Het is niet goed maar één ding te weten, men raakt daar verstompd van. Men moet niet rusten voor men ook het tegenovergestelde weet.</p>
+<p>Wat gij zegt van verschoonende omstandigheden, dat zij het feit van iets verkeerds gedaan te hebben of iets te bederven helaas niet wegnemen, is erg waar.</p>
+<p>Nu, denk eens aan onze vaderlandsche geschiedenis, rise &amp; fall of the Dutch republic, en gij zult begrijpen wat ik meen, wij moeten niet te veel toegeven aan de verschoonende omstandigheid van niet kunnen &amp;c., het is minder kristelijk (in den zin waarin men tegenwoordig het verslapt) maar het is beter voor ons en misschien zelfs voor anderen. En energie wekt energie, en omgekeerd, lamheid verlamt anderen.</p>
+<p>We leven nu hier in een schilder wereld waar het onuitsprekelijk lam en ellendig is. De tentoonstellingen, de winkels voor schilderijen, alles alles is bezet door lui die alle geld onderscheppen. En ge moet niet denken dat dit een verbeelding van me is. Men geeft veel geld voor 't werk als de schilder zelf dood is. En men stelt de levende schilders altijd achteruit met den doodslaander van het werk dergenen die er niet meer zijn.</p>
+<p>Ik weet dat wij hiertegen niets kunnen om het te veranderen. men moet dus in vredes naam er zich in troosten óf een soort protectie te hebben óf een rijke vrouw veroveren of zoo iets, anders kan men niet werken. Al wat men hoopt van onafhankelijkheid door zijn werk, van invloed op anderen, daar komt glad niets van.</p>
+<p>En toch is het een zeker pleizier een schilderij te maken, en toch zijn er juist nu hier een stuk of 20 schilders, allen meer schuld dan geld hebbende &amp;c., allen met een levensgedrag zoowat als dat van de straathonden, die misschien meer dan de heele officieele tentoonstelling zullen beteekenen in zoover de manier van werken in de toekomst aangaat.</p>
+<p>Het voornaamste kenmerk van een schilder is, stel ik mij voor, te kunnen schilderen; zij die kunnen schilderen, zij die het het beste kunnen, zijn de kiemen van iets wat nog lang zal blijven bestaan, net zoo lang als er oogen zullen zijn die genieten van iets wat eigenaardig mooi is.</p>
+<p>Nu spijt het mij wel voortdurend dat men zich niet rijker kan maken door harder te werken – integendeel.</p>
+<p>Indien men dat kon toch, zou men veel meer kunnen uitrigten, zich kunnen associeeren met anderen, wat al niet. Want nu is ieder gebonden aan de gelegenheid die hij heeft om aan den kost te komen en is men lang niet precies vrij.</p>
+<p>Ge spreekt er van "of ik iets ingezonden had op Arti" – zeker niet – alleen Theo heeft aan de Heer Tersteeg een bezending schilderijen van impressionisten gezonden en daar was er ook een van mij bij. Het heeft echter slechts uitgewerkt dat noch Tersteeg noch de artisten, naar Theo hoorde, er iets in gevonden hadden.</p>
+<p>
+Dat is nu wel erg begrijpelijk want het is geregeld hetzelfde, men heeft van de impressionisten gehoord, men stelt er zich veel van voor en... als men ze voor t'eerst ziet is men bitter en bitter teleurgesteld en vindt het slordig, leelijk, slecht geschilderd, slecht geteekend, slecht van kleur, al wat miserabel is. Dat was mijn eigen eerste indruk ook toen ik met de idees van Mauve en Israels en andere knappe schilders in
+<placeName ref="#parigi">Parijs</placeName>
+kwam. En als er te
+<placeName ref="#parigi">Parijs</placeName>
+een tentoonstelling is enkel van impressionisten, geloof ik een massa bezoekers er bitter teleurgesteld en zelfs verontwaardigd van terugkomen, net op de zelfde manier als de brave Hollanders in der tijd gestemd waren als zij uit de kerk komende een oogenblik later een redenatie van Domela Nieuwenhuis of andere socialisten bijwoonden.
+</p>
+<p>En toch – ge weet het – in 10 of 15 jaar tijd viel dat heele gebouw van een nationalen godsdienst en – de socialisten én zijn er nog én zullen er nog lang zijn, al hooren noch gij noch ik heel erg tot een der beide rigtingen.</p>
+<p>De kunst nu – de officieele kunst – en haar opvoeding, leiding, organisatie, is suf en vermolmd als den godsdienst die we zien vallen – en zij zal niet duren al zijn er nog zooveel tentoonstellingen, ateliers, scholen &amp;c., zal niet duren evenmin als de tulpehandel.</p>
+<p>Doch dit gaat ons niet aan, we zijn noch stichters van iets nieuws noch geroepen instandhouders te zijn van iets ouds.</p>
+<p>Maar dit blijft – een schilder is iemand die schildert zoo als een eigentlijk bloemenliefhebber iemand is die van de planten houd en ze zelf kweekt, en niet de tulpehandelaar.</p>
+<p>En dus die stuk of 20 schilders die men impressionisten noemt, al zijn een paar hunner tamelijk rijk geworden en tamelijk groote lui in de wereld – toch, voor 't meerendeel zijn het arme donders die in koffijhuizen leven, in goedkoope herbergen logeeren, van den eenen dag op den anderen leven.</p>
+<p>Maar – in één dag schilderen al die 20 die ik U daar noem al wat hun voor den neus komt en beter dan menig groot heer in de kunstwereld veel naam hebbende.</p>
+<p>Ik zeg dit om U te doen begrijpen wat voor soort band mij hecht aan de fransche schilders die men de impressionisten noemt – dat ik veel hunner persoonlijk ken en van hen houd.</p>
+<p>En verder dat ik in mijn eigen techniek dezelfde idees betreffende de kleuren heb waar indertijd in Holland zelfs ik over dacht.</p>
+<p>Korenbloemen met witte chrysantecumsa en een stuk of wat goudsbloemen. Ziedaar een motief in blaauw en oranje.</p>
+<p>Heliotrope en geele rozen, motief in lilas en geel.</p>
+<p>Klaprozen of roode geraniums in sterk groene bladeren, motief in rood en groen.</p>
+<p>Ziedaar gronden die men verder kan onderverdeelen, kan uitwerken, maar genoeg om U te laten zien zonder schilderij dat er kleuren zijn die elkaar doen schitteren, die een paar uitmaken, elkaar completeeren als man en vrouw.</p>
+<p>De heele theorie U uit te leggen zou vrij wat schrijven kosten maar toch, het ware te doen.</p>
+<p>De kleeren, de behangselpapieren, wat al niet zou men vrij wat aardiger maken door rekening te houden met de wetten der kleuren.</p>
+<p>Ge begrijpt dat Israels en Mauve, die geen heele kleuren gebruikten, die altijd in grijs werkten, behoudens alle respect en liefde niet voldoen aan het verlangen van kleur van tegenwoordig.</p>
+<p>Nog iets: iemand die werkelijk viool of piano spelen kan is als mensch dunkt me magtig amusant. Hij neemt zijn viool en begint te spelen en een heel gezelschap geniet een avond lang. Dat moet een schilder ook kunnen.</p>
+<p>En dit doet me wel eens pleizier, te werken buiten als er iemand bijstaat. Men bevindt zich b.v. in het koren, welnu in den tijd van een paar uur moet men dat korenveld en de lucht er boven en 't verschiet in de verte kunnen schilderen. Iemand die dat bijwoont houdt wel eens daarna zijn mond digt over de onhandigheid der impressionisten en hun slecht schilderen, ziet ge. Maar wij tegenwoordig hebben zelden kennissen die genoeg belang stellen om eens mee te gaan. Maar als zij het doen dan zijn ze wel eens ingepakt ook.</p>
+<p>Stel daar nu tegenover de lui die een atelier, maanden tijd, weet ik wat meer noodig hebben om iets te maken, après tout maar al te dikwijls vrij suf.</p>
+<p>Kunt ge U niet begrijpen dat er iets is dan in de nieuwe manier. En dit wou ik er bij – op een morgen of op een middag wou ik een portret kunnen schilderen en trouwens ik heb dat wel eens gedaan.</p>
+<p>Dit werk neemt volstrekt niet weg dat op andere schilderijen men langer kunne werken. Ik stuurde U gisteren per post een teekening die de eerste krabbel is van een nog al groot schilderij.</p>
+<p>Maar is 't niet curieus dat, zoo als ik U daar zeg, er zijn zeker een twintigtal lui die in een uur of wat een portret kunnen schilderen waar karakter in zit – haast nooit vraagt men er een – een stuk of 20 lui die welk landschap ook op welk uur van den dag met welk effekt van kleur ook op staanden voet zonder aarzelen kunnen doen – niemand staat bij hen, ze werken steeds alleen. Als echter iedereen zulks wist – maar ziedaar, de toestanden zijn zoo weinig bekend. Alleen, ik verbeeld me dat een geslacht later of in een der latere geslachten dit beslist werken zonder aarzelen, het juist meten in een oogwenk, het handig mengen van de kleur, het teekenen bliksemsnel – er zal een geslacht komen dat dit niet alleen zal doen zooals wij nu, onbemind, maar met een publiek dat er van gediend wil zijn én voor portret van personen én voor portret van landschap of binnenhuis.</p>
+<p>Ik schrijf U echter veel te veel over het schilderen, alleen ik wilde er zoodoende op komen U te doen begrijpen dat het nog al van gewigt is dat Theo het zoo ver gekregen heeft dat in het huis waar hij dirigeert tegenwoordig voortdurend een tentoonstelling van impressionisten is. 't Volgend jaar zal nog al gewigtig zijn. Even als in de litteratuur de franschen de baas zijn onweerlegbaar, zoo is het in 't schilderen ook, er zijn in de moderne kunsthistorie namen als Delacroix, Millet, Corot, Courbet, Daumier, die al wat in andere landen is geproduceerd domineeren. Doch de kliek schilders die tegenwoordig aan t'hoofd staat in het officieele, teert op de lauweren door die vroegeren behaald en is op zich zelf van veel minder kaliber. Die kunnen dus op de aanstaande Wereldtentoonstelling niet veel bijdragen om de fransche kunst die belangrijkheid te laten die ze tot heden heeft. De aandacht niet van het publiek – dat natuurlijk alles bekijkt zonder naar de geschiedenis te vragen – maar de aandacht van wie op de hoogte zijn, zal 't volgend jaar getrokken worden door de retrospectieve tentoonstelling van de schilderijen van de groote lui die reeds dood zijn en door de impressionisten. Ook dat zal nog niet dadelijk de omstandigheden waarin de laatsten zich bevinden veranderen maar wel zal het er toe bijdragen om althans de idees te verspreiden en nog wat meer animo te geven. De suffe schoolmeesters die nu in de jury van den Salon zijn, zullen echter niet eens de impressionisten toelaten. Deze zullen dat echter ook geenszins begeeren en op eigen houtje exposeeren. Als ge nu nagaat dat ik tegen dien tijd minstens een 50 tal schilderijen wil hebben, welligt voelt ge dan dat ik die niet exposeer zoo zachtjes aan toch mijn part meewerk voor een veldslag waar men althans dit voor heeft dat, indien men er in meedoet, men niet voor een prijs of medaille hoeft te vreezen als een zoete jongen. Zij zijn hier ook wel eerzuchtig maar toch is er een verschil en hier beginnen velen te begrijpen hoe belagchelijk het is zich afhankelijk te stellen van de opinie van anderen over wat men doet. Ik heb het land om over me zelf te schrijven en ik weet niet waarom ik het doe. Misschien om U te antwoorden op uw vragen. Ge ziet wat ik gevonden heb, mijn werk, en ge ziet ook wat ik niet gevonden heb, al de rest die tot 't leven hoort. En de toekomst? Of geheel en al abstract worden voor wat 't werk niet is of... ik durf over dat 'of' niet uitweiden wegens 't zoowel beter als erger wezen kan dan dat gemiddelde, uitsluitend een werkmachine te worden, ongeschikt &amp; ongevoelig voor al de rest. Dat gemiddelde zou ik zoo tamelijk wel me in kunnen schikken en in afwachting is het zoo, ik zit juist nog in een zelfden rommelboel als altijd.</p>
+<p>Zeg eens, van rommel gesproken. Het is misschien de moeite waard wat er goeds is in den rommel die, naar Theo zegt, nog van mij ergens in Breda op een zolder is, nog te redden. Ik durf 't U echter niet vragen en misschien is 't verloren geraakt, tob er dus niet voor.</p>
+<p>Maar dit is de kwestie. Ge weet, Theo heeft verl. jaar een heele partij houtsneden meegebragt. Toch mankeeren er een paar van de beste portefeuilles en de rest is minder goed, juist omdat het geen geheel meer is. Natuurlijk worden houtsneden uit illustraties hoe langer hoe zeldzamer naarmate de jaargangen ouder worden. Genoeg, geheel onverschillig laat die rommel mij niet, zoo is er b.v. een exemplaar Gavarni, Mascarade Humaine, een boek Anatomy for artists, enfin eenige dingen die eigentlijk veel te goed zijn om te verliezen. Ik beschouw ze echter vooruit als verloren, wat er nog van teregt komt is zuiver winst. Ik wist toen ik wegging niet dat het zoo voorgoed zou zijn. Want het werk in Nuenen ging niet slecht en had slechts noodig voort te gaan. Ik mis altijd nog mijn modellen die voor mij gegroeid waren en waar ik nog mee dweep, had ik die hier nu – ik was zeker mijn 50 schilderijen raak zouden zijn. Begrijpt gij dat, ik ben niet boos op de menschenwereld omdat zij vinden dat ik dit of dat ben – daar geef ik ze vooruit gaarne ten volle gelijk in, maar het verdriet me dat ik geen magt genoeg heb om te laten poseeren wat ik wil, waar ik wil en zoo lang of zoo kort als ik wil. Daar en niet in de technische moeielijkheid zit het bezwaar dat ik dien te eindigen, te overwinnen. En heden ben ik een landschapschilder waar ik eigentlijk voor portret geschikter ben. Het zou me dus weinig verwonderen indien ik nog eens van manier veranderde. Een schilder – Chaplin – die de portretten van de mooiste vrouwen van Parijs magtig mooi schildert, dames in boudoirs met of zonder toilet, heeft krachtige landschappen en kuddes varkens op de hei geschilderd. Wil maar zeggen men moet doen wat voor de hand ligt en zijn techniek vasthouden.</p>
+<p>Als gij in mijn bereik waart zoudt gij vrees ik aan het schilderen moeten gelooven. Er zijn parijsche dames, altans een werkelijk goed, bij de impressionisten – zelfs 2 goede.</p>
+<p>En als ik er aan denk hoe juist de nieuwe manier de vrouwen op 't spoor zou helpen die niet in preciesigheid kunnen treden, die muziekaal voelen, dan spijt het me wel eens ouder en leelijker te worden dan mijn belang meebrengt.</p>
+<p>
+Het is erg braaf van Theo dat hij U heeft geinviteerd eens naar
+<placeName ref="#parigi">Parijs</placeName>
+te komen – ik weet niet wat voor indruk het op U maken zou. De eerste keer dat ik het zag voelde ik vooral de triestigheden die men niet weg kan waaien, even min als de ziekenlucht in het hospitaal, al houdt men het nog zoo helder. En later is me dat bij gebleven, toch heb ik later een begrip gekregen van hoe het een broeikas is van idees en hoe de lui er alles uit het leven zoeken te halen wat er met mogelijkheid in is. Andere steden worden er klein bij en het schijnt zoo groot als de zee. Maar men laat er altijd een heel stuk leven achter. En dit is zeker, niets is er frisch. Daarom, als men er van daan komt vind men een massa dingen elders uitmuntend.
+</p>
+<p>Erg blij ben ik er om dat gij uw gezondheid weer terug hebt, men doet alles onwillekeurig en zonder 't zich op t'oogenblik zelf te begrijpen verkeerd als men ziek is.</p>
+<p>De zon hier zoudt ge denk ik volstrekt niet onaangenaam vinden, ik voel me best er bij op t'heetst van den dag buiten te werken. Het is een drooge heldere warmte.</p>
+<p>De kleur is hier heel fijn eigentlijk, als het groen frisch is is het een rijk groen zooals wij 't in 't noorden zelden zien, kalm. Als het verbrandt en bestuift wordt het niet leelijk maar dan krijgt een landschap toonen van goud van allerlei kleur, groengoud, geelgoud, rosgoud, dito brons, koper, enfin van citroengeel af tot de dofgeele kleur van b.v. een hoop gedorscht graan. Dat met het blaauw – vanaf het diepste bleu de roi in 't water tot dat van vergeet mij nieten. Cobalt vooral, helder klaar blaauw – groenblaauw en violetblaauw.</p>
+<p>Natuurlijk lokt dit oranje uit – een door de zon verbrand gezigt doet oranje; verder, wegens 't vele geel spreekt het violet dadelijk – een rieten schutting of grijs rieten dak of een omgewerkte akker doet veel violetter dan bij ons. Verder, zoo als ge reeds vermoedt, de menschen zijn hier dikwijls mooi. In een woord, ik geloof dat het leven hier ietwat dankbaarder is dan op menige andere plaats. Alleen het komt me voor dat de lui wat aan 't verslappen zijn, wat te veel in de decadence van zorgeloosheid, onverschilligheid, terwijl indien zij energieker waren denkelijk het land meer zou opleveren. Ik heb niet veel gelezen in den laatsten tijd, toch madame Chrysantème van Pierre Loti.</p>
+<p>Ook l'abbe Constantin van Ohnet, vreesselijk lief en hemelsch, zoo dat zelfs zijn maitres des forges, ook wel wat aan dien kant reeds, er nog verdachter door wordt. Ik lees hier zelfs soms uit geeuwhonger met woede de krant, maar maak hier niet uit op dat ik behoefte aan lezen heb. Juist niet erg omdat ik liever zelf wat bekijk doch het is eenmaal een gewoonte een paar uur te lezen s'avonds, dus onwillekeurig voelt men dat men iets mist, maar dat dit niet hinderlijk is kunt ge uit op maken dat hetgeen men ziet interessant is.</p>
+<p>Ik ben een week aan de middellandsche zee geweest, gij zoudt dat mooi vinden. Hetgeen hier mij treft en wat mij 't schilderen hier aantrekkelijk maakt is de helderheid van de lucht, gij kunt niet weten wat dat is omdat we bij ons dat juist niet hebben – maar op een uur afstand onderscheid men de kleur van de dingen, het grijsgroen van olijfboomen en het grasgroen van de wei b.v. en het rose lilas van een omgewerkt land; bij ons zien we een vage grijze lijn aan den horizon, hier is tot wijd wijd weg de lijn scherp en den vorm te onderkennen. Dit geeft een idée van ruimte en lucht.</p>
+<p>Ik ben nu toch zoo over mijn eigen bezig, nu wil ik ook eens kijken of ik nu mijn eigen portret er niet in kan schrijven. Vooreerst stel ik op den voorgrond dat een zelfde persoon mijns inziens stof tot erg uiteenloopende portretten oplevert.</p>
+<p>
+Ziehier een opvatting van het mijne die 't resultaat is van een portret dat ik in den spiegel schilderde en dat
+<persName ref="#theo">Theo</persName>
+heeft: Een roze grijs gelaat met groene oogen, aschkleurig haar, rimpels in voorhoofd en om den mond, stijf houterig, een zeer rooden baard, vrij ongeredderd en triest, maar de lippen zijn vol, een blaauwe kiel van grof linnen en een palet met citroengeel, vermilloen, veroneesgroen, cobaltblaauw, enfin alle kleuren, behalve den oranje baard, op het palet, de eenige heele kleuren echter. De figuur tegen een graauwwitten muur. Gij zult zeggen dat dit ietwat lijkt op b.v. het gezigt van – de dood – in het boek van v. Ede, of zoo iets – goed, maar enfin, is zoo'n figuur – en 't is niet makkelijk zichzelf te schilderen – niet in alle geval iets anders dan een photografie? En ziet ge – dit heeft het impressionisme – m.i. voor boven de rest, het is niet banaal en men zoekt een diepere gelijkenis dan die van den fotograaf.
+</p>
+<p>
+Nu tegenwoordig zie ik in zoover er anders uit dat ik noch haar noch baard meer bezit, zijnde deze beiden steeds glad afgeschoren, verder van groengrijs rose is mijn gelaatskleur grijs oranje geworden en heb ik een wit pak in plaats van een blaauw en ben steeds stoffig, steeds verder bevracht als een stekelvarken, met stokken, schilderezel, doek, en verdere koopwaar. Alleen de groene oogen zijn eender gebleven maar een andere kleur in het portret is natuurlijkerwijs een geele stroohoed als een hannikemaaier – en een zeer zwart pijpje. Ik woon in een klein geel huis met groene deur en blinden, van binnen gewit – op de witte muren – zeer sterk gekleurde japansche teekeningen – roode plavuizen op den vloer – het huis in de volle zon – en een sterk blaauwe lucht er boven en – de schaduw midden op den dag veel korter dan bij ons. Enfin – maar kunt ge U niet begrijpen dat men met eenige vegen zóó iets schilderen kan, maar tevens kunt ge u niet begrijpen dat sommige lui zeggen "het doet al te vreemd", zonder te noemen hen die het niets of afschuwelijk vinden. Als het nu eenmaal lijkt, maar anders lijkt dan de godvruchtige fotograaf met zijn zwarte schimmen – daar alleen is 't om te doen. Ik houd volstrekt niet veel van de heer Vosmaer en ben hardvochtig genoeg weinig om s'mans verwisseling van het tijdelijke met het eeuwige te geven. Het is erg goed dat gij en moe maar liever U een tuin hebt aangeschaft, met katten, katers, musschen en vliegen, dan een trap meer er op na te houden. Ik heb mij nooit aan het trappen klimmen te
+<placeName ref="#parigi">Parijs</placeName>
+kunnen wennen en had altijd duizeling in een afschuwelijke nachtmerrie die mij hier verlaten heeft maar die ginder geregeld terugkwam.
+</p>
+<p>Ik zou indien ik deze brief niet op de post deed hem bepaald verscheuren als ik hem eerst eens over las – ik lees hem dus niet over en ik betwijfel de leesbaarheid, ik heb niet altijd tijd tot schrijven.</p>
+<p>Ik geloof dat er niets in dezen brief staat en kan niet begrijpen hoe ik hem dan zoo lang heb gekregen. Bedank moe voor haar brief.</p>
+<p>
+Ik bestemde sedert lang een geschilderde studie voor U en gij zult die krijgen ook. Ik ben bang dat per post men U, al frankeer ik, voor onvoldoende frankeering zou laten betalen, zooals de bloemen uit Menton, en dit is nog grooter – maar
+<persName ref="#theo">Theo</persName>
+zal er zeker U een sturen, als ik er niet om denk vraag er hem dan om.
+</p>
+<p>In gedachten U en moe omhelsd.</p>
+<closer>
+<salute>uw liefh.</salute>
+<signed>
+<persName ref="#vincent">Vincent</persName>
+</signed>
+</closer>
+<postscript>
+<p>
+<persName ref="#theo">Theo</persName>
+werkt voor al de impressionisten, voor allen heeft hij wat gedaan en verkocht en zal dat zeker blijven doen. maar juist dit een &amp; ander dat ik U schrijf over de kwestie zal U doen zien hoe hij iets heel anders is dan de gewone handelaars die om de schilders niets geven.
+</p>
+<p>Is de teekening voldoende gefrankeerd geweest. Schrijf me dat omdat ik het dien te weten.</p>
+</postscript>
+</div>
+</body>
+</text>
+</TEI>

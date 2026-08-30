@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Self-Portrait with Grey Felt Hat</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q18238237</dcterms:identifier>
+  <dc:description>Autoritratto dipinto da Vincent van Gogh a Parigi tra settembre e ottobre 1887, con tavolozza influenzata dal Puntinismo. Abbinato a una lettera alla sorella Willemien (lettera 574) in cui l'artista riflette sulla propria evoluzione cromatica e dichiara di applicare questa nuova sensibilità al ritratto.</dc:description>
+
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>Parigi</dc:subject>
+  <dc:subject>Post-Impressionismo</dc:subject>
+  <dcterms:subject xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q166713</dcterms:subject>
+
+  <dc:date>1887</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>olio su cotone</dc:format>
+  <dcterms:extent>44,5 cm x 37,2 cm</dcterms:extent>
+
+  <dc:coverage>Parigi</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/2988507/paris.html</dcterms:spatial>
+
+  <dc:language>fr</dc:language>
+  <dc:rights>Opera di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Van Gogh Museum, Amsterdam</dc:source>
+  <dc:publisher>Van Gogh Museum, Amsterdam</dc:publisher>
+
+  <dcterms:isPartOf>Autoritratti — Vincent van Gogh (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">Self-Portrait with Dark Felt Hat (1886) — confronto diretto sulla schiaritura della tavolozza</dc:relation>
+  <dc:relation type="tematica">Self-Portrait as a Painter (1887-88) — stesso periodo, tecnica più matura</dc:relation>
+
+</record>

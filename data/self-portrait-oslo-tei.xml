@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lettera a Theo van Gogh, Saint-Rémy-de-Provence, 20 settembre 1889 (testo originale francese, integrale)</title>
+<author ref="https://www.wikidata.org/wiki/Q5582">Vincent van Gogh</author>
+</titleStmt>
+<publicationStmt>
+<p>Trascrizione a cura di Sara Agnoletti, progetto "Van Gogh: 8 autoritratti e lettere (1886-1889)", 2026.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Fonte: Van Gogh Letters Project (Van Gogh Museum / Huygens ING), lettera n. 805, testo originale francese. https://vangoghletters.org/vg/letters/let805/letter.html Testo di pubblico dominio (autore deceduto nel 1890).</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1889-09-20"/>
+</creation>
+<langUsage>
+<language ident="fr">Francese (originale)</language>
+</langUsage>
+<particDesc>
+<listPerson>
+<person xml:id="vincent" sameAs="https://www.wikidata.org/wiki/Q5582">
+<persName>Vincent van Gogh</persName>
+</person>
+<person xml:id="theo" sameAs="https://www.wikidata.org/wiki/Q317188">
+<persName>Theo van Gogh</persName>
+</person>
+<person xml:id="pissarro" sameAs="https://www.wikidata.org/wiki/Q134741">
+<persName>Camille Pissarro</persName>
+</person>
+<person xml:id="gauguin" sameAs="https://www.wikidata.org/wiki/Q37693">
+<persName>Paul Gauguin</persName>
+</person>
+<person xml:id="millet" sameAs="https://www.wikidata.org/wiki/Q148458">
+<persName>Jean-François Millet</persName>
+</person>
+<person xml:id="delacroix" sameAs="https://www.wikidata.org/wiki/Q33477">
+<persName>Eugène Delacroix</persName>
+</person>
+</listPerson>
+</particDesc>
+<settingDesc>
+<listPlace>
+<place xml:id="saintremy" sameAs="https://www.geonames.org/2977214/saint-remy-de-provence.html">
+<placeName>Saint-Rémy-de-Provence</placeName>
+</place>
+<place xml:id="parigi" sameAs="https://www.geonames.org/2988507/paris.html">
+<placeName>Paris</placeName>
+</place>
+<place xml:id="arles" sameAs="https://www.geonames.org/3036938/arles.html">
+<placeName>Arles</placeName>
+</place>
+</listPlace>
+</settingDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="estratto">
+<p>
+Scrivendo a
+<persName ref="#theo">Theo</persName>
+da
+<placeName ref="#saintremy">Saint-Rémy</placeName>
+il 20 settembre 1889, Van Gogh annuncia l'invio del suo autoritratto, chiedendo che venga mostrato a
+<persName ref="#pissarro">Pissarro</persName>, e ne menziona un secondo, "un tentativo di quando ero malato" — riferimento diretto all'autoritratto qui presentato, dipinto durante l'episodio psicotico dell'estate 1889. La lettera tratta anche delle copie da
+<persName ref="#millet">Millet</persName>e
+<persName ref="#delacroix">Delacroix</persName>
+a cui Van Gogh si dedica in questo periodo di convalescenza.
+</p>
+</div>
+<div type="lettera">
+<opener>
+<salute>Mon cher Theo,</salute>
+</opener>
+<p>
+Merci beaucoup de ta lettre. Cela me fait fort grand plaisir d'abord que toi de ton côté avais déjà pensé aussi au père
+<persName ref="#pissarro">Pissarro</persName>
+.
+</p>
+<p>
+Tu verras qu'il y a encore des chances sinon là alors ailleurs. Maintenant les affaires sont les affaires et tu me demandes de répondre cathégoriquement – et tu fais bien – si je consentirais à aller dans une maison à
+<placeName ref="#parigi">Paris</placeName>
+en cas de déplacement immédiat pour cet hiver.
+</p>
+<p>Je réponds à cela oui, avec le même calme et pour les mêmes motifs que je suis entré dans celle ci – quand bien même serait que cette maison de Paris fût un pis aller ce qui pourrait être facilement le cas car l'occasion pour travailler est pas mal ici et le travail ma distraction unique.</p>
+<p>Mais cela dit je te ferai observer que dans ma lettre je donnais un motif fort grave comme raison de désirer changer.</p>
+<p>Et je tiens à le repéter – Je suis étonné qu'avec les idées modernes que j'ai, moi si ardent admirateur de Zola, de de Goncourt et des chôses artistiques que je sens tellement, j'aie des crises comme en aurait un superstitieux et qu'il me vient des idées religieuses embrouillees et atroces telles que jamais je n'en ai eu dans ma tête dans le nord.</p>
+<p>
+Dans la supposition que, très sensible aux entourages, le séjour déjà prolongé dans ces vieux cloîtres que sont l'hospice d'
+<placeName ref="#arles">Arles</placeName>
+et la maison ici serait à soi seul suffisant pour expliquer ces crises – alors – même pour un pis aller – pourrait il être nécessaire à présent d'aller plutôt dans une maison de santé laique.
+</p>
+<p>Néamoins pour éviter de faire ou d'avoir l'air de faire un coup de tête, je te déclare après t'avoir ainsi averti de ce qu'à un moment donné je pourrais désirer – soit un changement – je te déclare que je me sens assez de calme et de confiance pour attendre encore une periode pour voir si une nouvelle attaque se produira cet hiver.</p>
+<p>Mais si alors je t'écrirais: je veux sortir d'ici, tu n'hesiterais pas et ce serait arrangé d'avance car tu saurais alors que j'aurais une raison grave ou même plusieurs pour aller dans une maison non dirigée comme celle ci par les soeurs quelqu'excellentes qu'elles fussent.</p>
+<p>Maintenant si par un arrangement ou un autre plus tôt ou plus tard on changerait, alors commençons comme si presque rien était, tout en étant très prudent et prêts à écouter Rivet à la moindre des chôses mais ne nous mettons pas tout de suite à prendre des mesures trop officielles comme si c'était une cause perdue.</p>
+<p>Pour ce qui est de manger beaucoup, je le fais – mais si j'étais mon médecin je me le défendrais.</p>
+<p>Ne voyant aucun bien pour moi dans des forces physiques bien enormes car si je m'absorbe dans l'idée de faire du bon travail et de vouloir être artiste et rien que cela, ce serait le plus logique.</p>
+<p>La mère et Wil chaqune de son côté après le départ de Cor ont changé d'entourage – elles avaient bigrement raison. Il ne faut pas que le chagrin s'amasse dans notre âme comme l'eau d'un marécage. Mais c'est parfois et couteux et impossible de changer.</p>
+<p>Wil écrivait fort bien, c'est un gros chagrin pour elles le départ de Cor.</p>
+<p>
+C'est drôle, juste au moment où je faisais cette copie de la pieta de
+<persName ref="#delacroix">Delacroix</persName>
+j'ai trouvé où est passée cette toile. Elle apartient à une reine de Hongrie ou d'un autre pays par là qui a écrit des poésies sous le nom de Carmen Sylva. L'article qui parlait d'elle et du tableau etait de Pierre Loti, qui faisait sentir que cette Carmen Sylva était comme personne encore plus touchante que ce qu'elle écrit – et elle ecrit pourtant des chôses comme-ça: Une femme sans enfant est comme une cloche sans battant – le son de l'airain serait peutêtre fort beau mais on ne l'entendra point.
+</p>
+<p>
+J'ai à present 7 copies sur les dix des travaux des champs de
+<persName ref="#millet">Millet</persName>
+.
+</p>
+<p>Je peux t'assurer que cela m'interesse énormement de faire des copies et que n'ayant pour le moment pas des modeles cela fera que pourtant je ne perdrai pas de vue la figure.</p>
+<p>En outre cela me fera une decoration d'atelier pour moi ou un autre.</p>
+<p>Je désirerais copier aussi le semeur et les bêcheurs.</p>
+<p>Il y a des becheurs une phot. d'après le dessin.</p>
+<p>Et du semeur chez Durand Ruel l'eau forte de Lerat.</p>
+<p>Dans ces mêmes eaux fortes se trouve le champ sous la neige avec une herse. Puis les quatre heures de la journees, dans la collection de gravures sur bois il y en a des exemplaires.</p>
+<p>
+Je voudrais avoir tout cela, au moins les eaux fortes et les gravures sur bois. C'est une étude dont j'ai besoin car je veux apprendre. Quoique copier soit le vieux système cela ne me fait absolument rien. Je vais copier le Bon samaritain de
+<persName ref="#delacroix">Delacroix</persName>
+aussi.
+</p>
+<p>J'ai fait un portrait de femme – la femme du surveillant – que je crois que tu aimerais. J'en ai fait une répétition qui était moins bien que celui sur nature.</p>
+<p>Et je crains qu'ils prendront la dernière, j'aurais voulu que tu l'eusses. C'est rose et noir.</p>
+<p>Je t'envoie aujourd'hui mon portrait à moi, il faut le regarder pendant quelque temps – tu verras j'espère que ma physionomie s'est bien calmée quoique le regard soit vague davantage qu'auparavant à ce qui me parait.</p>
+<p>
+J'en ai un autre qui est un essai de lorsque j'etais malade. Mais celui ci je crois te plaira mieux et j'ai cherché à faire simple, fais le voir au père
+<persName ref="#pissarro">Pissaro</persName>
+si tu le vois.
+</p>
+<p>Tu seras surpris quel effet prennent les travaux des champs par la couleur, c'est une serie bien intime de lui.</p>
+<p>Ce que je cherche là-dedans et pourquoi il me semble bon de les copier, je vais tâcher de te le dire – On nous demande a nous autres peintres toujours de composer nous-mêmes et de n'être que compositeurs.</p>
+<p>Soit – mais dans la musique il n'en est pas ainsi – et si telle personne jouera du Beethoven elle y ajoutera son interprétation personelle – en musique et alors surtout pour le chant – l'interprétation d'un compositeur est quelque chôse et il n'est pas de rigueur qu'il n'y a que le compositeur qui joue ses propres compositions.</p>
+<p>Bon – moi surtout à présent etant malade je cherche à faire quelque chose pour me consoler, pour mon propre plaisir.</p>
+<p>
+Je pose le blanc et noir de
+<persName ref="#delacroix">Delacroix</persName>
+ou de
+<persName ref="#millet">Millet</persName>
+ou d'après eux devant moi comme motif. Et puis j'improvise de la couleur là-dessus mais bien entendu pas tout à fait étant moi mais cherchant des souvenirs de leurs tableaux – mais le souvenir, la vague consonnance de couleurs qui sont dans le sentiment, sinon justes – ca c'est une interpretation à moi.
+</p>
+<p>Un tas de gens ne copient pas. Un tas d'autres copient – moi je m'y suis mis par hasard et je trouve que cela apprend et surtout parfois console.</p>
+<p>Aussi alors mon pinceau va entre mes doigts comme serait un archet sur le violon et absolument pour mon plaisir. Aujourd'hui j'ai essayé la tondeuse de moutons dans une gamme allant du lilas au jaune. C'est des petites toiles de 5 à peu près.</p>
+<p>Je te remercie beaucoup de l'envoi de toiles et de couleurs. Par contre je t'envoie avec le portrait quelques toiles, les suivantes:</p>
+<p>lever de lune (meules), étude de champs, d'oliviers, de nuit, la montagne, Champ de blé vert, Oliviers, Verger en fleur, Entrée d'une carrière.</p>
+<p>Les quatre premieres toiles sont des études où il n'y a pas l'effet d'ensemble des autres. Moi j'aime assez l'entrée d'une carrière que je faisais quand j'ai senti cette attaque commencer, parceque les verts sombres vont à mon goût bien avec les tons d'ocre, il y a quelque chose de triste dedans qui est sain et c'est pourquoi elle ne m'embête pas. Cela est peutetre aussi le cas pour la Montagne.</p>
+<p>On me dira que les montagnes ne sont pas comme ca et qu'il y a des contours noirs d'un doigt de largeur. Mais enfin il me semblait que cela rendait le passage du livre de Rod – un des bien rares passages de lui où je trouve du bon – sur un pays de montagnes sombres perdu dans lequel on apercevait des cabanes noirâtres de chèvriers, où fleurissaient des tournesols.</p>
+<p>Les oliviers avec nuage blanc et fond de montagnes ainsi que le lever de lune et l'effet de nuit – ce sont des exagérations au point de vue de l'arrangement, les lignes en sont contournés comme celles des bois anciens. Les oliviers sont davantage dans le caractère ainsi que dans l'autre étude et j'ai cherché à rendre l'heure où on voit voler dans la chaleur les cetoines vertes et les cigales.</p>
+<p>Les autres toiles – le faucheur &amp;c. ne sont pas sèches. Et maintenant dans la mauvaise saison je vais faire beaucoup de copies car réellement il faut que je fasse davantage de figure. C'est l'etude de la figure qui apprend à saisir l'essentiel et à simplifier.</p>
+<p>
+Lorsque tu dis dans ta lettre que je n'aurais jamais rien fait que travailler, non – cela n'est pas juste – je suis moi fort fort mecontent de mon travail et la seule chôse qui me console c'est que les gens d'expérience disent, il faut peindre pendant 10 ans pour rien. Mais ce que j'ai fait ce n'est que ces 10 ans-là d'etudes malheureuses et mal venues. A présent pourrait venir une meilleure période mais il faudra fortifier la figure et il faut que je rafraichisse ma memoire par l'étude bien serrée de
+<persName ref="#delacroix">Delacroix</persName>
+, de
+<persName ref="#millet">Millet</persName>
+. Alors je chercherai à débrouiller mon dessin. Oui à quelque chôse malheur est bon, on gagne du temps pour l'étude.
+</p>
+<p>J'ajoute encore au rouleau de toiles une etude de fleurs – pas grand chôse mais enfin je ne veux pas la déchirer.</p>
+<p>En somme là-dedans je ne trouve un peu bien que le champ de blé, la montagne, le verger, les oliviers avec les collines bleues et le portrait et l'entrée de carriere, et le reste ne me dit rien parceque cela manque de volonté personelle, de lignes senties. Là où ces lignes sont serrees et voulues commence le tableau, même si ce serait exagéré.</p>
+<p>
+C'est un peu ça que sentent Bernard et
+<persName ref="#gauguin">Gauguin</persName>
+, ils ne demanderont pas du tout la forme juste d'un arbre mais il veulent absolument qu'on dise si la forme est ronde ou carrée – et ma foi, ils ont raison – exasperés par la perfection photographique et niaise de certains.
+</p>
+<p>
+Ils ne demanderont pas le ton juste des montagnes mais ils diront: nom de Dieu les montagnes étaient elles bleues, alors foutez y du bleu et n'allez pas me dire que c'était un bleu un peu comme ci comme ça, c'etait bleu n'est ce pas? bon – faites les bleues et c'est assez!
+<persName ref="#gauguin">Gauguin</persName>
+est quelquefois génial lorsqu'il explique cela mais le génie qu'a Gauguin, il est bien timide de le montrer et c'est touchant comme il aime à dire une chôse vraiment utile à des jeunes. Quel drôle d'être tout de même.
+</p>
+<p>Cela me fait bien plaisir que Jo va bien et je crois que tu te sentiras bien plus dans ton élément en songeant à sa grossesse et en en ayant naturellement les soucis aussi, que seul sans ces soucis de famille. Car tu te sentiras davantage dans la nature.</p>
+<p>
+Lorsqu'on pense à
+<persName ref="#millet">Millet</persName>
+et à
+<persName ref="#delacroix">Delacroix</persName>
+, quelle opposition. Delacroix sans femme, sans enfants, Millet dans la famille en plein plus que qui que ce soit.
+</p>
+<p>Et comme pourtant il y a des égalités dans leur oeuvre.</p>
+<p>Alors Jouve a toujours conservé son grand atelier et il travaille à de la décoration.</p>
+<p>Celui là il s'en est fallu bien peu qu'il ne fût un excellent peintre. C'est les malheurs d'argent chez lui, il est forcé pour manger de faire mille choses excepté la peinture qui lui coute plutot de l'argent qu'elle n'en rapporte s'il fait quelque chôse de beau.</p>
+<p>Et il perd vite la main pour dessiner avec la brosse. Ca vient probablement de la vieille éducation qui est la même que l'actuelle – dans les ateliers – ils remplissent des contours. Et Daumier peignait toujours son visage dans le miroir pour apprendre à dessiner!</p>
+<p>Sais tu à quoi je songe assez souvent – à ce que je te disais dejà dans le temps, que si je ne reussissais pas pourtant je croyais que ce à quoi j'avais travaillé serait continué. Non pas directement mais on n'est pas seul à croire à des choses qui sont vraies. Et qu'importe-t-on personellement alors.</p>
+<p>Je sens tellement que l'histoire des gens est comme l'histoire du blé, si on n'est pas semé en terre pour y germer qu'est ce que ca fait, on est moulu pour devenir du pain.</p>
+<p>La différence du bonheur et du malheur, tous les deux sont necessaires et utiles et la mort ou la disparition... c'est tellement relatif – et la vie également.</p>
+<p>Même devant une maladie qui detraque ou inquiète, cette croyance-là ne s'ébranle point.</p>
+<p>J'aurais desiré voir ces Meunier.</p>
+<p>
+Eh bien que ce soit entendu que si je t'écrirais encore exprès et tout court que je désirais venir à
+<placeName ref="#parigi">Paris</placeName>
+, j'aurais une raison pour cela que je t'ai expliquée plus haut. Qu'en attendant rien n'est bien pressé et j'ai confiance assez après t'avoir averti pour attendre l'hiver et la crise qui peutetre reviendra alors.
+</p>
+<p>Mais si j'ai encore une exaltation religieuse alors pas de grâce, je voudrais sans donner raison partir sur le champ. Seulement il ne nous est pas loisible, au moins ce serait indiscret, de se mêler de l'administration des soeurs ou même de les critiquer. Elles ont leur croyance et des façons de faire du bien aux autres à elles, quelquefois c'est très bien. Mais je ne t'avertis pas à la légère. Et ce n'est pas pour recouvrer plus de liberté ou autre chôse que je n'en aie. Ainsi attendons avec beaucoup de calme qu'une occasion se présente pour se caser.</p>
+<p>C'est beaucoup gagné que l'estomac travaille bien et alors je ne crois pas que je serai autant sensible au froid. Puis je sais que faire quand il fait mauvais temps, ayant ce projet de copier plusieurs chôses que j'aime.</p>
+<p>
+Je voudrais bien voir des reproductions de
+<persName ref="#millet">Millet</persName>
+dans les écoles, je crois qu'il y aurait des enfants qui deviendraient des peintres si seulement ils voyaient des bonnes choses.
+</p>
+<p>Dites bien le bonjour à Jo et poignée de main, à bientôt.</p>
+<closer>
+<salute>t. à t.</salute>
+<signed>
+<persName ref="#vincent">Vincent</persName>
+</signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

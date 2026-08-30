@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lettera a Theo van Gogh, Saint-Rémy-de-Provence, 5-6 settembre 1889 (testo originale francese, integrale) — riferita al Self-Portrait with Palette</title>
+        <author ref="https://www.wikidata.org/wiki/Q5582">Vincent van Gogh</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Trascrizione a cura di Sara Agnoletti, progetto "Van Gogh: 8 autoritratti e lettere (1886-1889)", 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Fonte: Van Gogh Letters Project (Van Gogh Museum / Huygens ING), lettera n. 800,
+        testo originale francese. https://vangoghletters.org/vg/letters/let800/print.html
+        Testo di pubblico dominio (autore deceduto nel 1890). NOTA: questa lettera descrive
+        due autoritratti diversi (F626 e F627) ed è quindi usata, con estratti introduttivi
+        diversi, sia per questo item sia per "Self-Portrait" (Musée d'Orsay).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1889-09-05"/></creation>
+      <langUsage><language ident="fr">Francese (originale)</language></langUsage>
+      <particDesc>
+        <listPerson>
+          <person xml:id="vincent" sameAs="https://www.wikidata.org/wiki/Q5582">
+            <persName>Vincent van Gogh</persName>
+          </person>
+          <person xml:id="theo" sameAs="https://www.wikidata.org/wiki/Q317188">
+            <persName>Theo van Gogh</persName>
+          </person>
+          <person xml:id="gauguin" sameAs="https://www.wikidata.org/wiki/Q37693">
+            <persName>Paul Gauguin</persName>
+          </person>
+          <person xml:id="delacroix" sameAs="https://www.wikidata.org/wiki/Q34013">
+            <persName>Eugène Delacroix</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <listPlace>
+          <place xml:id="saintremy" sameAs="https://www.geonames.org/2977214/saint-remy-de-provence.html">
+            <placeName>Saint-Rémy-de-Provence</placeName>
+          </place>
+        </listPlace>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="estratto">
+        <p>
+          Nella stessa lettera a <persName ref="#theo">Theo</persName> del 5-6 settembre
+          1889 usata anche per l'item "Self-Portrait" (Musée d'Orsay), Van Gogh descrive
+          di essere al lavoro su due autoritratti contemporaneamente. Il primo — questo,
+          il <em>Self-Portrait with Palette</em> (F626/JH1770, National Gallery of Art,
+          Washington) — è quello iniziato "il primo giorno che mi sono alzato": "blu
+          violetto scuro, la testa biancastra con i capelli gialli, dunque un effetto di
+          colore" (magro, pallido come un diavolo). Il secondo, a tre quarti su sfondo
+          chiaro, è invece l'autoritratto oggi al Musée d'Orsay (F627/JH1772), descritto
+          più avanti nella stessa lettera.
+        </p>
+      </div>
+      <div type="lettera">
+        <opener>
+          <salute>Mon cher frère,</salute>
+        </opener>
+        <p>Tout en t'ayant déjà écrit il reste bien des chôses que tu m'as dites &amp; auquelles je n'ai pas encore répondu. D'abord que tu aies loué une chambre dans la maison de Tanguy &amp; que mes toiles sont là, c'est fort intéressant – pourvu que ce ne soit pas cher que tu la payes – les frais continuant toujours et les toiles tardant toujours à rapporter, cela m'effraye souvent.</p>
+        <p>Quoi qu'il en soit je trouve que c'est une très bonne mesure et je t'en remercie comme de tant d'autres chôses. C'est curieux que Maus aie l'idée d'inviter le petit Bernard &amp; moi pour prochaine exposition des Vingtistes, je voudrais bien y exposer tout en sentant mon infériorité à côté de tant de Belges qui ont énormement du talent. Ainsi ce Mellery est un grand artiste. Et il se tient aussi depuis déjà nombre d'années. mais je ferais de mon mieux pour tâcher de faire cet automne quelque chôse de bon. Je travaille d'arrache pied dans ma chambre ce qui me fait du bien et chasse à ce que je m'imagine ces idées abnormales.</p>
+        <p>Ainsi j'ai refait la toile de la chambre à coucher. Cette étude-là est certes une des meilleures – tôt ou tard il faut carrément la rentoiler. Elle a été peinte si vite et a séché de façon que, l'essence s'évaporant tout de suite, la peinture ne s'est pas du tout collé ferme sur la toile. Cela sera le cas pour d'autres études de moi aussi qui ont été peintes très vite et en pleine pâte. D'ailleurs après quelque temps cette toile mince s'en va et ne peut supporter beaucoup de pâte.</p>
+        <p>Tu as pris d'excellents chassis, sacrématin si j'en avais ici de comme çà pour travailler ca vaudrait mieux que ces lattes d'ici qui se courbent au soleil.</p>
+        <p>On dit – et je le crois fort volontiers – qu'il est difficile de se connaitre soi-même – mais il n'est pas aisé non plus de se peindre soi-même. Ainsi je travaille à deux portraits de moi dans ce moment – faute d'autre modèle – parcequ'il est plus que temps que je fasse un peu de figure. L'un je l'ai commencé le premier jour que je me suis levé, j'étais maigre, pâle comme un diable. C'est bleu violet foncé et la tête blanchâtre avec des cheveux jaunes donc un effet de couleur.</p>
+        <p>Mais depuis j'en ai recommencé un de troisquarts sur fond clair.</p>
+        <p>Puis je retouche des études de cet été – enfin je travaille du matin jusqu'au soir.</p>
+        <p>Est ce que tu vas bien – bigre je voudrais bien pour toi que tu fusses 2 ans plus loin et que ces premiers temps de mariage, quelque beau que ce soit par moments, fussent derriere le dos. Je crois si fermement qu'un mariage devient surtout bon à la longue et qu'alors on se refait le tempérament. Prends donc les chôses avec un certain flegme du nord et soignez vous bien tous les deux. Cette sacré vie dans les beaux arts est éreintante à ce qui parait.</p>
+        <p>Les forces me reviennent de jour en jour et il me parait de nouveau que j'en ai déjà de trop presque. Car pour rester assidu au chevalet il n'est pas nécessaire d'être un hercule.</p>
+        <p>Cela m'a fait beaucoup penser à des peintres belges de ces jours ci et durant ma maladie, que tu me disais que Maus avait été voir mes toiles. Alors des souvenirs me viennent comme une avalanche et je cherche à me reconstruire toute cette école d'artistes modernes flamands jusqu'à en avoir le mal du pays comme un Suisse.</p>
+        <p>Ce qui n'est pas bien car notre chemin est – en avant – et retourner sur ses pas c'est défendu et impossible. C. à dire on pourrait y penser sans s'abimer dans le passé d'une nostalgia trop melancolique.</p>
+        <p>Enfin Henri Conscience est un écrivain pas du tout parfait mais par ci par là, un peu partout, quel peintre! et quelle bonté dans ce qu'il a dit et voulu. J'ai tout le temps dans la tête une préface – (celle du conscrit) d'un de ses livres où il dit avoir été très malade et que dans sa maladie malgré tous ses efforts il avait senti s'évanouir son affection pour les hommes et que par de longues promenades en plein champs ses sentiments d'amour lui etaient revenus.</p>
+        <p>Cette fatalité de la souffrance et du désespoir – enfin me voilà encore remonté pour une période – j'en dis merci.</p>
+        <p>Je t'écris cette lettre peu à peu dans des intervalles quand je suis las de peindre. Le travail va assez bien – je lutte avec une toile commencée quelques jours avant mon indisposition. Un faucheur, l'étude est toute jaune, terriblement empâtée mais le motif était beau et simple. J'y vis alors dans ce faucheur – vague figure qui lutte comme un diable en pleine chaleur pour venir à bout de sa besogne – j'y vis alors l'image de la mort, dans ce sens que l'humanité serait le blé qu'on fauche. C'est donc si tu veux l'opposition de ce semeur que j'avais essayé auparavant. Mais dans cette mort rien de triste, cela se passe en pleine lumière avec un soleil qui inonde tout d'une lumière d'or fin. Bon m'y revoila, je ne lâche pourtant pas prise et sur une nouvelle toile je cherche de nouveau. Ah, je croirais presque que j'ai une nouvelle periode de clair devant moi.</p>
+        <p>Et que faire – continuer pendant ces mois-là ici ou changer – je ne sais. C'est que les crises lorsqu'elles se présentent ne sont guere drôles, et risquer d'avoir une attaque comme cela avec toi ou d'autres c'est grave.</p>
+        <p>Mon cher frère – c'est toujours entre temps du travail que je t'écris – je laboure comme un vrai possédé, j'ai une fureur sourde de travail plus que jamais et je crois que ça contribuera à me guérir.</p>
+        <p>Peut-être m'arrivera-t-il une chôse comme celle dont parle Eug. <persName ref="#delacroix">Delacroix</persName> – "j'ai trouvé la peinture lorsque je n'avais plus ni dents ni soufle", dans ce sens que ma triste maladie me fait travailler avec une fureur sourde – très lentement – mais du matin au soir sans lâcher – et – c'est probablement le secret – travailler longtemps et lentement. Qu'en sais je mais je crois que j'ai une ou deux toiles en train pas trop mal, d'abord le faucheur dans les blés jaunes et le portrait sur fond clair. Ce sera pour les Vingtistes si toutefois ils se souviennent de moi au moment donné, or ce me serait absolument égal sinon préférable qu'ils m'oublient.</p>
+        <p>Puisque moi je n'oublie pas l'inspiration que cela me donne de me laisser aller aux souvenir de certains belges. C'est là le positif et le reste tellement secondaire.</p>
+        <p>Et nous voilà déjà en Septembre, vite nous serons en plein automne et puis l'hiver.</p>
+        <p>Je continuerai à travailler très raide et puis si vers Noel la crise revient nous verrons, et cela passé alors je n'y verrais pas d'inconvénient à envoyer à tous les diables l'administration d'ici et de revenir dans le nord pour plus ou moins longtemps. Quitter maintenant, alors que je juge probable une nouvelle crise en hiver c. à. d. dans 3 mois, serait peutêtre trop imprudent.</p>
+        <p>Il y a 6 semaines que je n'ai pas mis le pied dehors, même pas dans le jardin. semaine prochaine lorsque j'aurai fini les toiles en train je vais cependant essayer.</p>
+        <p>Mais encore quelques mois et je serai à tel point avachi et hébété qu'un changement fera probablement beaucoup de bien.</p>
+        <p>Cela c'est provisoirement mon idée là-dessus, bien entendu c'est pas une idée fixe.</p>
+        <p>Mais suis d'avis qu'il ne faut pas plus se gêner avec les gens de cet établissement qu'avec des propriétaires d'hôtel. On leur a loué une chambre pour autant de temps et ils se font bien payer pour ce qu'ils donnent et voilà absolument tout.</p>
+        <p>Sans compter que peutêtre ils ne demanderaient pas mieux qu'un état chronique de la chôse et on serait coupablement bête si on donnait là-dedans.</p>
+        <p>Ils s'informent beaucoup trop à mon goût de ce que non seulement moi mais toi gagnent &amp;c.</p>
+        <p>Ainsi y poser un lapin. sans se brouiller.</p>
+        <p>Je continue encore cette lettre entre temps. hier j'ai commencé le portrait du surveillant en chef et peut-être je ferai aussi sa femme car il est marié et demeure dans un petit mas à quelques pas de l'établissement.</p>
+        <p>Une figure fort interessante. il y a une belle eau forte de Legros représentant un vieux noble espagnol, si tu t'en rappelles cela te donnera une idée du type. Il a été à l'hospice de Marseille pendant 2 epoques de cholera, enfin c'est un homme qui a énormement vu mourir et souffrir et il y a dans son visage je ne sais quel recueillement, tel, que la figure de Guizot – car il y a de cela dans cette tête – mais différent – me vient involontairement à la memoire. Mais lui est du peuple et plus simple. Enfin tu verras si je le réussis et si j'en fais une répétition.</p>
+        <p>Je lutte de toute mon énergie pour maitriser mon travail, me disant que si je gagne cela ce sera le meilleur paratonnerre pour la maladie. Je me ménage beaucoup en m'enfermant soigneusement, c'est égoiste si tu veux de ne pas plutôt m'habituer à mes compagnons d'infortune ici et d'aller les voir mais enfin je ne m'en trouve pas mal car mon travail est en progrès et de cela nous en avons besoin car il est plus que nécessaire que je fasse mieux qu'auparavant ce qui n'était pas suffisant.</p>
+        <p>Ne vaut-il pas mieux que si tot ou tard je reviendrais encore d'ici, j'en revienne décidemment capable de faire un portrait qui ait quelque caractère, que de revenir comme je suis parti. C'est grossierement exprimé car je sens bien qu'on ne peut pas dire "je sais faire un portrait" sans dire un mensonge, parceque cela est infini. Mais enfin tu comprendras ce que je veux dire, qu'il faut que je fasse mieux qu'auparavant.</p>
+        <p>Actuellement la pensée marche regulierement et je me sens absolument normal – et si je raisonne à present de mon état avec l'espérance d'avoir en general entre les crises – si malheureusement il est à craindre que cela reviendra toujours de temps en temps – d'avoir entre temps des periodes de clarté et de travail – si je raisonne à présent de mon état alors certes je me dis qu'il ne faut pas que j'aie l'idée fixe d'être malade. mais qu'il faut continuer ma petite carriere de peintre fermement. Dès lors de rester dès maintenant pour de bon dans un asile serait probablement exagerer les chôses.</p>
+        <p>Je lisais encore dans le Figaro il y a quelques jours une histoire d'écrivain russe qui a vecu avec une maladie nerveuse dont il est mort tristement d'ailleurs, qui lui causait des attaques terribles de temps à autre.</p>
+        <p>Et qu'y peut on, il n'y a pas de remède ou s'il y en a c'est de travailler avec ardeur. Je m'appesantis là-dessus plus qu'il ne faut. Et j'aime en somme mieux avoir ainsi carrement une maladie que d'être comme j'etais à Paris alors que cela couvait.</p>
+        <p>Aussi tu verras ceci quand tu mettras le portrait sur fond clair que je viens de terminer à côté de ceux que j'ai fait de moi à Paris, qu'à present j'ai l'air plus sain qu'alors et même beaucoup.</p>
+        <p>Je suis même porté à croire que le portrait te dira mieux que ma lettre comment je vais et que cela te rassurera – il m'a couté du mal.</p>
+        <p>Et puis le faucheur marche je crois aussi – c'est tres très simple.</p>
+        <p>Fin du mois tu peux compter sur 12 toiles de 30 j'ose dire mais il y aura deux fois les mêmes à peu près, l'etude et le tableau définitif.</p>
+        <p>Enfin plus tard – peutêtre que mon voyage dans le midi portera des fruits pourtant car la différence de la lumière plus forte, du ciel bleu, cela apprend à voir et alors surtout et seulement même, quand on voit cela longtemps.</p>
+        <p>Le nord me paraitra certes tout à fait nouveau mais j'ai tellement regardé les chôses que je m'y suis fortement attaché, et il m'en restera de la mélancolie longtemps.</p>
+        <p>Je pense à une drole de chôse. Dans Manette Salomon on discute l'art moderne et je ne sais quel artiste parlant de "ce qui restera" dit: ce qui restera c'est "les paysagistes" – cela a été un peu vrai car Corot, Daubigny, Dupré, Rousseau – Millet en tant que paysagiste, ça dure et lorsque Corot dit sur son lit de mort: j'ai vu en rève des paysages avec des ciels tout rose, c'etait charmant; alors – très bien – dans Monet, Pissarro, Renoir nous les voyons ces ciels tout roses, ainsi les paysagistes cela reste très bien, cela a été bigrement vrai. Laissons de côté la figure de <persName ref="#delacroix">Delacroix</persName>, de Millet.</p>
+        <p>Après, actuellement qu'est ce que nous commençons timidement à entrevoir d'original et de durable – le portrait. c'est du vieux ça, peut-on dire – mais c'est aussi très-neuf. Nous causerons encore de cela – mais continuons toujours à rechercher des portraits, surtout d'artistes, tel le Guillaumin et le portrait de jeune fille de Guillaumin et garde bien mon portrait par Russell auquel je tiens tant.</p>
+        <p>As tu encadré le portrait de Laval, tu ne m'as pas dit ce qu'il t'en semblait je crois, je trouvais cela epatant le regard à travers le lorgnon, regard si franc.</p>
+        <p>La volonté que j'ai de faire du portrait de ces jours ci est terriblement tendu, enfin <persName ref="#gauguin">Gauguin</persName> et moi nous causions de cela et d'autres questions analogues de facon à nous tendre les nerfs jusqu'à l'extinction de toute chaleur vitale.</p>
+        <p>mais de cela il doit pourtant surgir quelques bons tableaux j'ose croire et nous les cherchons et ils doivent à ce que je m'imagine faire du bon travail en Bretagne. J'ai recu une lettre de G., je crois deja te l'avoir dit et je suis très curieux de voir un jour ce qu'ils font.</p>
+        <p>Je dois te demander les articles de peinture suivants: 10 mètres toile, grands tubes de blanc de zinc et vert d'emeraude, tubes de cobalt, petits tubes de carmin et vermillon, un grand tube laque ordinaire, 6 pinceaux Putois, poil noir.</p>
+        <p>Puis j'ai promis au surveillant d'ici un N° du Monde illustré, N° 1684, 6 Juillet 1889, où il y a une gravure très-jolie d'après Dumont Breton.</p>
+        <p>Ouf – le faucheur est terminé, je crois que ca en sera un que tu mettras chez toi – c'est une image de la mort tel que nous en parle le grand livre de la nature – mais ce que j'ai cherché c'est le "presqu'en souriant." C'est tout jaune sauf une ligne de collines violettes – d'un jaune pâle et blond. Je trouve ça drôle moi que j'aie vu ainsi à travers les barreaux de fer d'un cabanon.</p>
+        <p>Eh bien sais tu ce que j'espère une fois que je me mets à avoir de l'espoir, c'est que la famille soit pour toi ce qu'est pour moi la nature, les mottes de terre, l'herbe, le blé jaune, le paysan. C. à. d. que tu trouves dans ton amour pour les gens de quoi non seulement travailler mais de quoi te consoler et te refaire alors qu'on en a besoin. Ainsi je t'en prie, ne te laisse pas trop ereinter par les affaires mais soignez vous bien tous les deux – peutêtre dans un avenir pas trop éloigné il y a encore du bon.</p>
+        <p>J'ai bien envie de refaire le faucheur encore une fois pour la mère sinon je lui ferai un autre tableau pour sa fête, cela viendra plus tard car je l'enverrai avec le reste.</p>
+        <p>Car je suis persuadé que la mère le comprendrait – car c'est en effet aussi simple qu'une de ces gravures sur bois grossières qu'on trouve dans les almanachs de campagne.</p>
+        <p>Envoie moi la toile dès que tu pourras car si je veux encore faire d'autres repetitions pour les soeurs aussi et si j'entreprends de nouveaux effets d'automne j'aurai de quoi remplir mon temps d'un bout à l'autre pour ce mois ci.</p>
+        <p>Je mange et je bois comme un loup à present. Je dois dire que le médecin est tres bienveillant à mon égard.</p>
+        <p>oui, je crois que c'est une bonne idée d'aller faire quelques tableaux pour la Hollande, pour la mère et les deux soeurs ça fera trois c. à. d. le faucheur, la chambre à coucher, les oliviers, champ de blé et cyprès, cela fera quatre même car alors j'ai encore une autre personne pour qui j'en ferai un aussi. Je travaillerai à cela avec autant de plaisir et plus de calme que pour les Vingtistes, c'est entendu, puisque je me sens de la force sois sûr que je vais chercher à en abattre du travail. Je prends les meilleurs qu'il y ait dans 12 motifs donc ils auront toujours des chôses un peu etudiées et choisies. Et puis il y a du bon de travailler pour les gens qui ne savent pas ce que c'est qu'un tableau.</p>
+        <p>Bonne poignée de main à toi et à Jo.</p>
+        <closer>
+          <salute>t. à t.</salute>
+        </closer>
+        <p>J'ouvre encore une fois cette lettre pour te dire que je viens de voir M. Peyron, je ne l'avais pas vu depuis 6 jours. Il me dit que ce mois ci il compte aller à Paris et qu'il te verra alors. Cela me fait plaisir car il a, c'est incontestable, beaucoup d'expérience et je crois qu'il te dira ce qu'il en pense assez franchement.</p>
+        <p>A moi il m'a seulement dit – "espérons que cela ne reviendra pas" mais enfin moi je compte que cela reviendra pendant assez longtemps, au moins quelques années. Mais j'y compte aussi que le travail, loin de m'être impossible, entre temps peut aller son train et même est mon remède. Et alors je dis encore une fois – mettant le médecin M. Peyron hors de cause absolument – que vis à vis de l'administration d'ici il faut probablement être poli, mais qu'il faut se borner à cela mais s'engager à rien.</p>
+        <p>C'est très grave que partout ici où je demeurerais un peu longtemps j'aurais peutêtre affaire à des préjugés populaires – j'ignore même quels sont ces préjuges – qui me rendraient la vie avec eux insupportable.</p>
+        <p>Mais enfin j'attends ce que M. Peyron te dira, je n'ai moi aucune idée de son opinion. J'ai travaillé cette après midi au portrait du surveillant, qui avance. Si ce n'était très temperé – tout à fait – par un regard intelligent et une expression de bonté ce serait un vrai oiseau de proie: C'est bien un type du midi.</p>
+        <p>Je suis curieux si cette fois ci le voyage projeté de M. Peyron se réalisera en effet, je suis tres curieux de savoir ce qui puisse en résulter.</p>
+        <p>Avec encore une année de travail peutêtre arriverai je à une sureté de moi au point de vue artistique. Et c'est toujours quelque chose qu'il vaut la peine de rechercher.</p>
+        <p>Mais là il faut que j'aie de la chance. Ce que je rêve dans mes meilleurs moments ce ne sont pas tant des effets de couleur éclatante que encore une fois les demi tons.</p>
+        <p>Et certes la visite au musee de Montpellier a contribué à donner cette tournure à mes idées. Car ce qui me touchait là davantage que les magnifiques Courbet qui sont des merveilles, les demoiselles de village, la fileuse endormie – c'etaient les portraits de Brias par <persName ref="#delacroix">Delacroix</persName> et par Ricard puis le Daniel, les odalisques de Delacroix, tous en demi tons. Car ces odalisques sont tout autre chose que celles du Louvre. C'est violacé surtout.</p>
+        <p>Mais dans ces demi tons quel choix et quelle qualité.</p>
+        <p>Il est temps que je fasse partir enfin cette lettre – je pourrais te dire en deux pages ce qu'elle contient c. à d. rien de neuf. mais enfin je n'ai pas le temps de la refaire.</p>
+        <p>Bonne poignée de main encore une fois et si ça ne te dérange pas trop fais moi avoir la toile aussitot possible.</p>
+        <closer>
+          <salute>t. à t.</salute>
+          <signed><persName ref="#vincent">Vincent</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

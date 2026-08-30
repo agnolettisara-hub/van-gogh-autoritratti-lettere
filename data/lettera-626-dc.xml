@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Lettera a Willemien van Gogh, Arles, 16-20 giugno 1888 (lettera 626)</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://vangoghletters.org/en/let626</dcterms:identifier>
+  <dc:description>Lettera alla sorella Willemien in cui Van Gogh descrive nel dettaglio il "Self-Portrait as a Painter", paragonandolo al volto della morte e riflettendo sulla somiglianza pittorica.</dc:description>
+
+  <dc:contributor>Willemien van Gogh</dc:contributor>
+  <dcterms:contributor xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q4140958</dcterms:contributor>
+  <dc:publisher>Van Gogh Museum / Huygens ING (Van Gogh Letters Project)</dc:publisher>
+
+  <dc:type>Text</dc:type>
+  <dc:format>lettera manoscritta</dc:format>
+  <dc:date>1888-06-18</dc:date>
+  <dc:language>nl</dc:language>
+
+  <dc:subject>corrispondenza</dc:subject>
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>somiglianza pittorica</dc:subject>
+
+  <dc:coverage>Arles</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/3036938/arles.html</dcterms:spatial>
+
+  <dc:rights>Testo di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Van Gogh Letters Project, lettera 626 — https://vangoghletters.org/en/let626</dc:source>
+
+  <dcterms:isPartOf>Van Gogh: 8 autoritratti e lettere (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">self-portrait-as-painter-dc.xml — Self-Portrait as a Painter (1887-88)</dc:relation>
+
+</record>

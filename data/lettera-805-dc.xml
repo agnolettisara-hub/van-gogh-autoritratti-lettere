@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Lettera a Theo van Gogh, Saint-Rémy-de-Provence, 20 settembre 1889 (lettera 805)</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://vangoghletters.org/vg/letters/let805/letter.html</dcterms:identifier>
+  <dc:description>Lettera a Theo in cui Van Gogh annuncia l'invio di un secondo autoritratto, definendolo "un tentativo di quando ero malato", e discute le copie da Millet e Delacroix.</dc:description>
+
+  <dc:contributor>Theo van Gogh</dc:contributor>
+  <dcterms:contributor xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q317188</dcterms:contributor>
+  <dc:publisher>Van Gogh Museum / Huygens ING (Van Gogh Letters Project)</dc:publisher>
+
+  <dc:type>Text</dc:type>
+  <dc:format>lettera manoscritta</dc:format>
+  <dc:date>1889-09-20</dc:date>
+  <dc:language>fr</dc:language>
+
+  <dc:subject>corrispondenza</dc:subject>
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>copie da Millet e Delacroix</dc:subject>
+
+  <dc:coverage>Saint-Rémy-de-Provence</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/2977214/saint-remy-de-provence.html</dcterms:spatial>
+
+  <dc:rights>Testo di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Van Gogh Letters Project, lettera 805 — https://vangoghletters.org/vg/letters/let805/letter.html</dc:source>
+
+  <dcterms:isPartOf>Van Gogh: 8 autoritratti e lettere (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">self-portrait-oslo-dc.xml — Self-portrait, National Museum Oslo (1889)</dc:relation>
+
+</record>

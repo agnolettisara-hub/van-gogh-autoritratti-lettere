@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lettera a Theo van Gogh, Arles, 4 o 5 ottobre 1888 (testo originale francese, integrale)</title>
+<author ref="https://www.wikidata.org/wiki/Q5582">Vincent van Gogh</author>
+</titleStmt>
+<publicationStmt>
+<p>Trascrizione a cura di Sara Agnoletti, progetto "Van Gogh: 8 autoritratti e lettere (1886-1889)", 2026.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Fonte: Van Gogh Letters Project (Van Gogh Museum / Huygens ING), lettera n. 697, testo originale francese. https://vangoghletters.org/vg/letters/let697/letter.html Testo di pubblico dominio (autore deceduto nel 1890). Sostituisce la precedente associazione con la lettera 694, che riguardava la genesi dello scambio ma non la ricezione dei ritratti.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1888-10-04"/>
+</creation>
+<langUsage>
+<language ident="fr">Francese (originale)</language>
+</langUsage>
+<particDesc>
+<listPerson>
+<person xml:id="vincent" sameAs="https://www.wikidata.org/wiki/Q5582">
+<persName>Vincent van Gogh</persName>
+</person>
+<person xml:id="theo" sameAs="https://www.wikidata.org/wiki/Q317188">
+<persName>Theo van Gogh</persName>
+</person>
+<person xml:id="gauguin" sameAs="https://www.wikidata.org/wiki/Q37693">
+<persName>Paul Gauguin</persName>
+</person>
+<person xml:id="bernard" sameAs="https://www.wikidata.org/wiki/Q264193">
+<persName>Émile Bernard</persName>
+</person>
+</listPerson>
+</particDesc>
+<settingDesc>
+<listPlace>
+<place xml:id="arles" sameAs="https://www.geonames.org/3036938/arles.html">
+<placeName>Arles</placeName>
+</place>
+</listPlace>
+</settingDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="estratto">
+<p>
+Scrivendo a
+<persName ref="#theo">Theo</persName>
+da
+<placeName ref="#arles">Arles</placeName>
+il 4 o 5 ottobre 1888, Van Gogh annuncia di aver appena ricevuto l'autoritratto di
+<persName ref="#gauguin">Gauguin</persName>
+(con il ritratto di
+<persName ref="#bernard">Bernard</persName>
+sullo sfondo) e quello di Bernard (con il ritratto di Gauguin sullo sfondo). Descrive l'autoritratto che sta inviando in cambio a Gauguin — l'opera qui presentata — spiegando di averlo concepito come "quello di un bonzo, semplice adoratore del Buddha eterno".
+</p>
+</div>
+<div type="lettera">
+<opener>
+<salute>Mon cher Theo,</salute>
+</opener>
+<p>
+Merci beaucoup de ta lettre. Combien je suis content pour
+<persName ref="#gauguin">Gauguin</persName>
+, je ne chercherai pas des expressions pour te le dire – ayons hardiment bon courage.
+</p>
+<p>
+Maintenant je viens de recevoir le portrait de
+<persName ref="#gauguin">Gauguin</persName>
+par lui-même et le portrait de
+<persName ref="#bernard">Bernard</persName>
+par Bernard avec dans le fond du portrait de G. celui de B. sur le mur et vice versa.
+</p>
+<p>Le Gauguin est remarquable d'abord mais moi j'aime fort celui de Bernard, c'est rien qu'une idée de peintre, quelques tons sommaires, quelques traits noiratres mais c'est chic comme du vrai vrai Manet. Le Gauguin est plus étudié, poussé loin.</p>
+<p>C'est ce qu'il dit dans la lettre et cela me fait decidemment avant tout l'effet de representer un prisonnier. Pas une ombre de gaité. Ce n'est pas le moins du monde de la chair mais hardiment on peut mettre cela sur le compte de sa volonté de faire une chose melancolique, la chair dans les ombres est lugubrement bleuté. Voilà qu'en fin j'ai l'occasion de comparer ma peinture à celle des copains.</p>
+<p>
+Mon portrait que j'envoie à
+<persName ref="#gauguin">Gauguin</persName>
+en échange se tient à côté j'en suis sûr. J'ai ecrit à Gauguin en reponse à sa lettre que s'il m'etait permis à moi aussi d'agrandir ma personalité dans un portrait j'avais, en tant que cherchant à rendre dans mon portrait non seulement moi mais en general un impressioniste, j'avais conçu ce portrait comme celui d'un bonze, simple adorateur du Bouddha éternel.
+</p>
+<p>
+Et lorsque je mets à côté la conception de
+<persName ref="#gauguin">Gauguin</persName>
+et la mienne, le mien est aussi grave mais moins désesperé. Ce que le portrait de Gauguin me dit surtout c'est qu'il ne doit pas continuer comme cela, il doit se consoler, il doit redevenir le Gauguin plus riche des négresses.
+</p>
+<p>Je suis tres content d'avoir ces deux portraits qui nous representent les copains fidelement à cette époque – ils ne resteront pas comme cela, ils reviendront à la vie plus sereine. Et je sens clairement que le devoir m'est imposé de faire tout mon possible pour diminuer notre pauvreté.</p>
+<p>Cela ne vaut rien dans le metier de peinture. Je sens qu'il est plus Millet que moi mais moi je suis plus Diaz que lui et comme Diaz je vais chercher à plaire au public pour qu'il y vienne des sous dans la communauté. J'ai plus dépensé qu'eux, cela m'est en voyant leur peinture absolument égal, ils ont travaillé trop pauvre pour que cela prenne.</p>
+<p>Car attends – j'ai du meilleur que ce que je t'ai envoyé et du plus vendable et je sens que je peux continuer à en faire. J'ai enfin une confiance là-dedans. Je sais que cela fera du bien à de certains gens de retrouver les sujets poetiques – le ciel etoile – Les pampres – les sillons – le jardin du poète.</p>
+<p>
+Alors je crois notre devoir à toi comme à moi de desirer la richesse relative justement parceque nous aurons de fort grands artistes à nourrir. Mais actuellement toi tu es aussi heureux ou au moins heureux dans le même genre que Sensier si tu as
+<persName ref="#gauguin">Gauguin</persName>
+et j'espere qu'il y viendra en plein. Cela ne presse pas mais dans tous les cas je crois qu'il aimera la maison comme son atelier jusqu'à accepter de le mener en chef. Attendons un demi an et voyons ce qui resultera de cela.
+</p>
+<p>
+<persName ref="#bernard">Bernard</persName>
+m'a encore envoyé un recueil d'une dizaine de dessin avec une crane poésie – "au bordel" est intitulé le tout.
+</p>
+<p>Tu verras bientôt ces chôses mais je t'enverrai les portraits après les avoir regardé pendant quelque temps.</p>
+<p>J'espère que tu m'enverras ta lettre bientôt, je suis bien gêné à cause des chassis &amp; cadres que j'ai commandés.</p>
+<p>Ce que tu dis de Freret me fait plaisir. mais j'ose croire que je ferai des chôses qui lui plairont mieux et à toi aussi.</p>
+<p>Hier j'ai peint un coucher de soleil.</p>
+<p>
+<persName ref="#gauguin">Gauguin</persName>
+a l'air malade dans son portrait et torturé!! Attends, cela ne durera pas et ce sera très curieux de comparer ce portrait ci à celui qu'il refera de soi dans un demi an.
+</p>
+<p>
+Tu verras un jour aussi le portrait de moi que j'envoie à
+<persName ref="#gauguin">Gauguin</persName>
+car il le gardera j'espère.
+</p>
+<p>C'est tout cendré contre du véronese pâle (pas de jaune). Le vetement est ce veston brun bordé de bleu mais dont j'ai exageré le brun jusqu'au pourpre et la largeur des bordures bleues.</p>
+<p>
+La tête est modelee en pleine pate claire contre le fond clair sans ombres presque. Seulement j'ai obliqué un peu les yeux à la japonaise. Ecris moi bientôt et bien bonne chance. Qu'il sera content le
+<persName ref="#gauguin">Gauguin</persName>
+!
+</p>
+<p>Bonne poignee de main et remercie Freret d'etre venu, ce qui me fait bien plaisir. à bientot.</p>
+<closer>
+<salute>t. à t.</salute>
+<signed>
+<persName ref="#vincent">Vincent</persName>
+</signed>
+</closer>
+<postscript>
+<p>
+Pour ce que dit
+<persName ref="#gauguin">Gauguin</persName>
+de "Persan", c'est vrai – je ne crois pas que mis au musée Dieulafoie cela choquerait, on pourrait l'y mettre sans inconvenient.
+</p>
+<p>
+Mais mais mais... je ne suis pas moi ni du grand monde ni meme du monde..... et – aux persans et Egyptiens je préfère et les grecs et les japonais. Je ne dis pas que
+<persName ref="#gauguin">Gauguin</persName>
+aie tort de travailler dans le Persan pour cela.
+</p>
+<p>Mais il faut que je m'y fasse.</p>
+</postscript>
+</div>
+</body>
+</text>
+</TEI>

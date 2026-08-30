@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <dc:title>Self-Portrait with Bandaged Ear</dc:title>
+
+  <dc:creator>Vincent van Gogh</dc:creator>
+  <dcterms:creator xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q5582</dcterms:creator>
+  <dcterms:identifier xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q19363211</dcterms:identifier>
+  <dc:description>Autoritratto dipinto da Vincent van Gogh ad Arles nel gennaio 1889, nei giorni immediatamente successivi alla dimissione dall'ospedale dopo l'episodio di auto-mutilazione dell'orecchio del dicembre 1888. Descritto dallo stesso Van Gogh in una lettera a Theo (lettera 736, 17 gennaio 1889), in cui racconta di aver ripreso a dipingere e di avere già completato tre studi in studio.</dc:description>
+
+
+  <dc:subject>autoritratto</dc:subject>
+  <dc:subject>Arles</dc:subject>
+  <dc:subject>Post-Impressionismo</dc:subject>
+  <dcterms:subject xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q166713</dcterms:subject>
+
+  <dc:date>1889-01</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>olio su tela</dc:format>
+  <dcterms:extent>60 x 49 cm</dcterms:extent>
+  <dc:coverage>Arles</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/3036938/arles.html</dcterms:spatial>
+
+  <dc:language>fr</dc:language>
+  <dc:rights>Opera di pubblico dominio (autore deceduto nel 1890).</dc:rights>
+  <dc:source>Courtauld Gallery, Londra</dc:source>
+  <dc:publisher>Courtauld Gallery, Londra</dc:publisher>
+
+  <dcterms:isPartOf>Autoritratti — Vincent van Gogh (1886-1889)</dcterms:isPartOf>
+
+  <dc:relation type="diretta">Lettera 736 a Theo (17 gennaio 1889) — la ripresa del lavoro dopo il ricovero</dc:relation>
+  <dc:relation type="tematica">Self-Portrait (Musée d'Orsay, 1889) — confronto esplicito richiamato nella lettera 800</dc:relation>
+
+</record>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lettera a Theo van Gogh, Arles, 17 gennaio 1889 (testo originale in francese)</title>
+<author ref="https://www.wikidata.org/wiki/Q5582">Vincent van Gogh</author>
+</titleStmt>
+<publicationStmt>
+<p>Trascrizione a cura di Sara Agnoletti, progetto "Van Gogh: 8 autoritratti e lettere (1886-1889)", 2026.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Fonte: Van Gogh Letters Project (Van Gogh Museum / Huygens ING), lettera n. 736, testo originale in francese. https://vangoghletters.org/en/let736 Testo di pubblico dominio (autore deceduto nel 1890). A differenza della traduzione inglese del 2009 (soggetta a copyright), il testo originale nella lingua in cui Van Gogh scrisse davvero non presenta questa limitazione.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1889-01-17"/>
+</creation>
+<langUsage>
+<language ident="fr">Francese (originale)</language>
+</langUsage>
+<particDesc>
+<listPerson>
+<person xml:id="vincent" sameAs="https://www.wikidata.org/wiki/Q5582">
+<persName>Vincent van Gogh</persName>
+</person>
+<person xml:id="theo" sameAs="https://www.wikidata.org/wiki/Q317188">
+<persName>Theo van Gogh</persName>
+</person>
+<person xml:id="gauguin" sameAs="https://www.wikidata.org/wiki/Q37693">
+<persName>Paul Gauguin</persName>
+</person>
+</listPerson>
+</particDesc>
+<settingDesc>
+<listPlace>
+<place xml:id="arles" sameAs="https://www.geonames.org/3036938/arles.html">
+<placeName>Arles</placeName>
+</place>
+</listPlace>
+</settingDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="estratto">
+<p>
+Dieci giorni dopo la dimissione dall'ospedale di Arles, Van Gogh scrive a
+<persName ref="#theo">Theo</persName>
+di aver ripreso a dipingere e di avere già completato tre studi in studio — tra questi, con ogni probabilità, l'autoritratto qui presentato. La lettera è anche il luogo in cui Van Gogh riflette a lungo, con lucidità e distacco, sulla rottura appena avvenuta con
+<persName ref="#gauguin">Gauguin</persName>
+. Di seguito il testo integrale, nella lingua originale francese in cui fu scritto (pubblico dominio).
+</p>
+</div>
+<div type="lettera">
+<opener>
+<salute>Mon cher Theo</salute>
+</opener>
+<p>Merci de ta bonne lettre ainsi que du billet de 50 francs qu'elle contenait. Répondre à toutes tes questions, le peux tu toi-même, dans ce moment je ne m'en sens pas capable. Je veux bien réflexion faite chercher une solution mais il faut que je relise encore ta lettre &amp;c.</p>
+<p>Mais avant de discuter ce que je dépenserais ou ne depenserais pas pendant toute une anée, cela nous mettrait peut-être sur une voie de revoir un peu rien que le mois actuel, courant.</p>
+<p>Dans tous les cas cela a été lamentable tout à fait et certes je me compterais heureux si enfin tu eusses un peu l'attention sérieuse pour ce qui en est et en a été si longtemps.</p>
+<p>Mais que veux tu, c'est malheureusement compliqué de plusieurs façons, mes tableaux sont sans valeur, ils me coutent il est vrai des dépenses extraordinaires, même en sang et cervelle peutêtre parfois. Je n'insiste pas et que veux tu que je t'en dise. Revenons toujours au mois actuel et ne parlons que de l'argent.</p>
+<p>Le 23 decembre il y avait encore en caisse un louis et 3 sous. Ce même jour j'ai reçu de toi le billet de 100 francs.</p>
+<p>Nous sommes ainsi déjà arrivé le jour ou le lendemain de ma sortie de l'hopital à un déboursement forcé de ma part de 103.50, ce à quoi il faut encore ajouter qu'alors le premier jour j'ai été diner avec Roulin au restaurant joyeusement, tout à fait rassurés et ne redoutant pas une nouvelle angoisse. Enfin le resultat de tout cela fut que vers le 8 j'étais à sec. Mais un ou deux jours après j'ai emprunté 5 francs. Nous en étions à peine au dix. J'éspérais vers le dix une lettre de toi, or cette lettre n'arrivant qu'aujourd'hui 17 janvier, l'intervalle a été un jeûne des plus rigoureux, à plus forte raison douloureux que mon rétablissement ne pouvait se faire dans ces conditions-là.</p>
+<p>J'ai néamoins repris le travail et j'ai déjà 3 études faites à l'atelier plus le portrait de M. Rey que je lui ai donné en souvenir.</p>
+<p>Il n'y a donc pas cette fois non plus encore aucun mal plus grave qu'un peu plus de souffrance et d'angoisse relative. Et je conserve tout bon espoir. Mais je me sens faible et un peu inquiet et craintif. Ce qui se passera j'espère en reprenant mes forces.</p>
+<p>Rey m'a dit qu'il suffisait d'être très impressionable pour avoir eu ce que j'avais eu quant à la crise et que actuellement je n'étais qu'anémique mais que réellement je devais me nourir. Mais moi j'ai pris la liberté de dire à M. Rey que si actuellement pour moi la première question avait été de reprendre mes forces, si par un grand hasard ou malentendu justement il m'était encore arrivé un jeûne rigoureux d'une semaine, si dans de pareilles circonstances il aurait déjà vu beaucoup de fous passablement tranquilles et capables de travailler – et sinon qu'il daignerait alors s'en souvenir à l'occasion que provisoirement moi je ne suis pas encore fou.</p>
+<p>
+Nous abordons maintenant des dépenses qui t'ont été occasionnées par un télégramme de
+<persName ref="#gauguin">Gauguin</persName>
+que je lui ai déjà assez formellement reproché d'avoir dépêché.
+</p>
+<p>
+Les dépenses ainsi faites de travers sont elles inférieures à 200 francs?
+<persName ref="#gauguin">Gauguin</persName>
+lui-même prétend-il qu'il a fait là des manoeuvres magistrales?
+</p>
+<p>Ecoutez je n'insiste pas davantage sur l'absurdité de cette démarche. Supposons que moi j'etais tout ce qu'on voudra d'égaré, pourquoi alors l'illustre copain n'etait il pas plus calme............... Je n'insisterai pas davantage sur ce point.</p>
+<p>
+Je ne saurais assez te louer d'avoir payé
+<persName ref="#gauguin">Gauguin</persName>
+d'une telle façon qu'il ne saurait que se louer des rapports qu'il a eu avec nous.
+</p>
+<p>Cela, voilà encore malencontreusement une dépense peutetre plus forte que de juste mais enfin là j'entrevois une espérance.</p>
+<p>Ne doit-il pas lui, ou au moins ne devrait-il pas un peu commencer à voir que nous n'étions pas ses exploiteurs mais qu'au contraire on y tenait de lui sauvegarder l'existence, la possibilité de travail et........ et... l'honnêteté.</p>
+<p>Pourquoi alors ne pas le considérer comme irresponsable des douleurs et dégats qu'inconsciemment tant à toi qu'à moi il aurait pu dans son aveuglement nous causer. Si actuellement encore cette thèse-là te paraîtrait trop hardie – je n'insiste pas – mais attendons.</p>
+<p>Je lui ai vu faire à diverses reprises des chôses que toi ou moi ne nous permettrions pas de faire, ayant des consciences autrement sentant – j'ai entendu deux ou trois chôses qu'on disait de lui dans ce même genre – mais moi qui l'ai vu de très très près, je le crois entraîné par l'imagination, par de l'orgueil peut-être mais – – assez irresponsable. Cette conclusion-là n'implique pas que je te recommande beaucoup de l'écouter en toute circonstance. Mais dans l'occasion du règlement de son compte je vois que tu a agi avec une conscience supérieure et alors je crois que nous n'avons rien à craindre d'être induits dans des erreurs de "banque de Paris" par lui.</p>
+<p>Je trouve assez étrange qu'il me réclame un tableau de tournesols en m'offrant en échange je suppose ou comme cadeau quelques études qu'il a laissé ici. Je lui renverrai ses etudes – qui probablement auront pour lui des utilités qu'elles n'auraient aucunement pour moi.</p>
+<p>Mais pour le moment je garde mes toiles ici et categoriquement je garde moi mes tournesols en question. Il en a déjà deux, que cela lui suffise. Et s'il n'est pas content de l'échange fait avec moi il peut reprendre sa petite toile de la Martinique et son portrait qu'il m'a renvoyé de Bretagne en me rendant de son côté et mon portrait et mes deux toiles de tournesols qu'il a prises à Paris. Si donc jamais il réabordera ce sujet ce que je dis est clair assez.</p>
+<p>Il me reste à y ajouter quelques mots d'appréciation. Ce qu'il a de bon c'est qu'il sait à merveille diriger la dépense de jour en jour. Alors que moi je suis souvent absent, préoccupé d'arriver à bonne fin. Lui a davantage que moi pour l'argent l'équilibre de la journée même. Mais son faible est que par une ruade et des écarts de bête il dérange tout ce qu'il rangeait.</p>
+<p>
+Or reste-t-on à son poste une fois qu'on l'a pris ou le déserte-t-on. Je ne juge personne là-dedans espérant moi-même ne pas être condamné dans des cas où les forces me manqueraient. Mais si
+<persName ref="#gauguin">Gauguin</persName>
+a tant de vertu réelle et tant de capacités de bienfaisance, comment va-t-il s'employer? Moi j'ai cessé de pouvoir suivre ses actes et je m'arrête silencieusement avec un point d'interrogation cependant.
+</p>
+<p>Lui et moi avons de temps à autre échangé nos idées sur l'art francais, sur l'impressionisme... Il me semble à moi maintenant impossible, au moins assez improbable que l'impressionisme s'organise et se calme.</p>
+<p>
+Heureusement
+<persName ref="#gauguin">Gauguin</persName>
+, moi et autres peintres ne sommes pas encore armées de mitrailleuses et autres très nuisibles engins de guerre. Moi pour un suis bien decidé à chercher à ne rester armé que de ma brosse et de ma plume.
+</p>
+<p>
+As tu l'adresse de Laval, l'ami de
+<persName ref="#gauguin">Gauguin</persName>
+. Tu peux dire à Laval que je suis tres étonné que son ami
+<persName ref="#gauguin">Gauguin</persName>
+n'aie pas emporté pour le lui remettre un portrait de moi que je lui destinais. Je te l'enverrai maintenant à toi et tu pourras le lui faire avoir. J'en ai un autre nouveau pour toi aussi.
+</p>
+<p>Merci encore de ta lettre. Je t'en prie tâche de songer que ce serait reellement impossible de vivre 13 jours des fr 23.50 qui vont me rester, avec 20 francs que tu enverrais semaine prochaine je chercherai à parvenir.</p>
+<p>Poignee de main, je relirai encore ta lettre et t'ecrirai bientot sur les autres questions.</p>
+<closer>
+<salute>t. à t.</salute>
+<signed>
+<persName ref="#vincent">Vincent</persName>
+</signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

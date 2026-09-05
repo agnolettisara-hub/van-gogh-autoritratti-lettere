@@ -363,19 +363,21 @@
         applicaFiltro();
       });
     });
-  // Apre davvero l'accordion corrispondente se si arriva da un link con #lettera-XXX
-  const hash = window.location.hash;
-  if (hash) {
-    const numero = hash.replace('#lettera-', '');
-    const collapseEl = document.getElementById('collapse-' + numero);
-    if (collapseEl) {
-      const bsCollapse = new bootstrap.Collapse(collapseEl, { toggle: false });
-      bsCollapse.show();
-      setTimeout(function () {
-        document.getElementById(hash.substring(1)).scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 150);
+
+    // Apre davvero l'accordion corrispondente se si arriva da un link con #lettera-XXX
+    const hash = window.location.hash;
+    if (hash) {
+      const numero = hash.replace('#lettera-', '');
+      const collapseEl = document.getElementById('collapse-' + numero);
+      if (collapseEl) {
+        const bsCollapse = new bootstrap.Collapse(collapseEl, { toggle: false });
+        bsCollapse.show();
+        setTimeout(function () {
+          document.getElementById(hash.substring(1)).scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 150);
+      }
     }
-  }  });
+  });
 </script>
 </body>
 </html>
